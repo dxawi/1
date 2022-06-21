@@ -1,6 +1,6 @@
 {
 "zhuyejiekou":[
-{"name":"美剧范","url":"http://ttzmz.net/api.php/v1.vod"},
+
 {"name":"美剧虫","url":"https://meijuchong.com/api.php/v1.vod"},
 {"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
