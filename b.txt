@@ -41,7 +41,7 @@
 
 "beiyongjiexi":"https://gkd8.cf/vip/vip.php?url=#https://www.aotemanjx.com/?url=#https://jx.iiiv.vip/?url=#https://vip.legendwhb.cn/m3u8.php?url=#https://jx.xmflv.com/?url=#http://47.100.138.210:92/?url=",
 
-"dianshizhibo":"https://freed.yuanhsing.cf/BiuBiu/live.txt",
+"dianshizhibo":"",
 "tiyuzhibo":"https://m.zhibo8.net",
 "reci":"https://v.sogou.com",
 "gongju":"aHR0cHM6Ly9na2Q4LmNmL3p6L3h6Lw==",
@@ -245,7 +245,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-"name": "555电影",
+{"name": "555电影",
   "url": "https://www.xawqxh.net",
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
