@@ -1,6 +1,22 @@
 {
   "sites": [
-   
+   {
+
+      "key": "csp_77",
+
+      "name": "🎬77(SP)",
+
+      "type": 3,
+
+      "api": "csp_Kunyu77",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+
+    },
     {
       "key": "csp_Alips",
       "name": "🐱喵搜(只支持搜索)",
@@ -29,15 +45,7 @@
       "filterable": 1
     },
     
-    {
-      "key": "csp_77",
-      "name": "🎬77(SP)",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_zxzj",
       "name": "📗在线(SP)",
@@ -106,20 +114,10 @@
     },
     {"key":"csp_biubiu_影视工厂","name":"影视工厂（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/影视工厂.json"},
 
-    {
-      "key": "v2_团夕",
-      "name": "团夕(V2)",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.kan365.xyz/api.php/app/"
-    },
+    
     {"key":"csp_xpath_乐猪TV","name": "乐猪TV〔X〕","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lezhutv.json"},
     {"key":"csp_xpath_dm84","name":"动漫巴士（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/dm84.json"},
-    {"key":"csp_xpath_auete","name":"Auete影视（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/auete.json"},
-    {
+        {
       "key": "csp_xpath_huya",
       "name": "虎牙直播",
       "type": 3,
@@ -129,8 +127,7 @@
       "filterable": 0,
       "ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya.json"
     },
-    {"key":"csp_xpath_libv","name":"LIBVIO（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/libv.json"},
-    {
+     {
       "key": "诺讯采集",
       "name": "诺讯采集",
       "type": 0,
