@@ -48,14 +48,31 @@
       "group": "redirect",
       "channels": [
         {
-          "live": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vZC96Yi50eHQ="
-          ]
+           "lives": [
+
+        {
+
+            "group": "redirect",
+
+            "channels": [
+
+                {
+
+                    "name": "live",
+
+                    "urls": [
+
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="
+
+                    ]
+
+                }
+
+            ]
+
         }
-      ]
-    }
-],
+
+    ],
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
