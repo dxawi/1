@@ -8,7 +8,7 @@
 {"key":"csp_Alips","name":"喵搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_GitCafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"csp_CZSPP","name":"厂长","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"在线(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"ext":"","filterable":1,"quickSearch":1,"name":"低端影视(SP)","api":"csp_DiDuan","type":3,"key":"diduan_spider","searchable":1},
@@ -25,8 +25,7 @@
 {"key":"csp_biubiu_lezhu","name":"乐猪(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/乐猪影视.json"},
 {"key":"csp_biubiu_lgyy","name":"蓝光(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lgyy.json"},
 {"key":"csp_biubiu_影视工厂","name":"影视工厂（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/影视工厂.json"},
-{"key":"csp_biubiu_厂长资源","name":"厂长资源（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/厂长资源-蓝光.json"},
-
+{"key":"csp_biubiu_厂长资源","name":"厂长","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"},
 // ⇩⇩ APPYSV2 ⇩⇩
 
 {"key":"v2_团夕","name":"团夕(V2)","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch": 0,"filterable":1, "ext":"https://www.kan365.xyz/api.php/app/"},
