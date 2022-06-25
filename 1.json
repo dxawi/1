@@ -1,67 +1,36 @@
 {
   "sites": [
     {
-
       "key": "csp_biubiu_lezhu",
-
-      "name": "乐猪影视",
-
+      "name": "乐猪",
       "type": 3,
-
       "api": "csp_XBiubiu",
-
       "searchable": 1,
-
       "quickSearch": 1,
-
       "filterable": 0,
-
       "ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/乐猪影视.json"
-
-    },
+    },  
     {
-     "key":"csp_XBiubiubiubiu_蓝光影视",
-     "name":"蓝光影视",
-     "type":3,
-     "api":"csp_XBiubiu",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "ext":"https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
-    },
-   {
-
       "key": "csp_77",
-
-      "name": "酷云七七",
-
+      "name": "七七",
       "type": 3,
-
       "api": "csp_Kunyu77",
-
       "searchable": 1,
-
       "quickSearch": 1,
-
       "filterable": 1
-
     },
-
-    
     {
       "key": "csp_kuaikan",
-      "name": "快看影视",
+      "name": "快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    
-    
+    },  
     {
       "key": "csp_zxzj",
-      "name": "在线之家",
+      "name": "在线",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -70,7 +39,7 @@
     },
     {
       "key": "diduan_spider",
-      "name": "低端影视",
+      "name": "低端",
       "type": 3,
       "api": "csp_DiDuan",
       "searchable": 1,
@@ -79,7 +48,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "厂长影视",
+      "name": "厂长",
       "type": 3,
       "api": "csp_CZSPP",
       "searchable": 1,
@@ -104,8 +73,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    
-    
     {
       "key": "push_agent",
       "name": "推送（阿里）",
@@ -115,7 +82,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    
     {
       "key":"csp_biubiu_影视工厂",
      "name":"影视工厂",
@@ -124,7 +90,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/影视工厂.json"},
+     "ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/影视工厂.json"
+    },
     {"key":"csp_xpath_saohuo",
      "name":"骚火影视",
      "type":3,
@@ -132,7 +99,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://cdn.staticaly.com/gh/tvba/x/main/saohuo.json"},
+     "ext":"https://cdn.staticaly.com/gh/tvba/x/main/saohuo.json"
+    },
     {"key":"csp_XBiubiubiubiu_libvio",
      "name":"libvio(B)",
      "type":3,
@@ -140,7 +108,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a20-libvio619.js"},
+     "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a20-libvio619.js"
+    },
     
     {"key":"csp_biubiu_特狗影视",
      "name":"特狗影视",
@@ -149,7 +118,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"},
+     "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
+    },
     {"key":"csp_XBiubiubiubiu_555",
      "name":"555",
      "type":3,
@@ -157,7 +127,8 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"},
+     "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
+    },
     
     {"key":"csp_xpath_网络搜集库112",
      "name":"工人影视",
@@ -166,8 +137,18 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://gitea.com/99/x/raw/branch/main/519-gongreng.json"},
-    
+     "ext":"https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
+    },
+    {
+     "key":"csp_XBiubiubiubiu_蓝光影视",
+     "name":"蓝光影视",
+     "type":3,
+     "api":"csp_XBiubiu",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0,
+     "ext":"https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
+    },
     {"key":"csp_xpath_乐猪TV",
      "name": "乐猪TV",
      "type": 3,
@@ -175,7 +156,8 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lezhutv.json"},
+     "ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lezhutv.json"
+    },
     {"key":"csp_xpath_dm84",
      "name":"动漫巴士",
      "type":3,
@@ -183,8 +165,9 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/dm84.json"},
-        {
+     "ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/dm84.json"
+    },
+    {
       "key": "csp_xpath_huya",
       "name": "虎牙直播",
       "type": 3,
@@ -194,7 +177,7 @@
       "filterable": 0,
       "ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya.json"
     },
-     {
+    {
       "key": "诺讯采集",
       "name": "诺讯采集",
       "type": 0,
