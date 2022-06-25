@@ -64,15 +64,6 @@
       "filterable": 0
     },
     {
-      "key": "push_agent",
-      "name": "推送（阿里）",
-      "type": 3,
-      "api": "csp_Ali",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "csp_biubiu_lezhu",
       "name": "乐猪",
       "type": 3,
@@ -101,25 +92,6 @@
      "filterable":0,
      "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a20-libvio619.js"
     },    
-    {"key":"csp_XBiubiubiubiu_555",
-     "name":"555",
-     "type":3,
-     "api":"csp_XBiubiu",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
-    },
-    {
-     "key":"csp_XBiubiubiubiu_蓝光影视",
-     "name":"蓝光影视",
-     "type":3,
-     "api":"csp_XBiubiu",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "ext":"https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
-    },
     {"key":"csp_xpath_乐猪TV",
      "name": "乐猪TV",
      "type": 3,
