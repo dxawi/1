@@ -101,6 +101,10 @@
 {"key":"csp_xpath_saohuo","name":"骚火","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.staticaly.com/gh/tvba/x/main/saohuo.json"},
     {"key":"csp_XBiubiubiubiu_libvio","name":"libvio(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a20-libvio619.js"},
     {"key":"csp_xpath_网络搜集源22","name":"巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/x/raw/branch/main/604-dm84.js"},
+    {"key":"csp_biubiu_特狗影视","name":"特狗(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"},
+    {"key":"csp_XBiubiubiubiu_555","name":"555(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"},
+    {"key":"csp_XBiubiubiubiu_ysgc","name":"工厂(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"},
+    {"key":"csp_xpath_网络搜集库112","name":"工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/519-gongreng.json"},
     
     {"key":"csp_xpath_乐猪TV","name": "乐猪TV〔X〕","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lezhutv.json"},
     {"key":"csp_xpath_dm84","name":"动漫巴士（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/dm84.json"},
