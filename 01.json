@@ -10,23 +10,6 @@
             "filterable": 1
         },  
         {
-
-      "key": "csp_Mjxq",
-
-      "name": "美剧星球🐞",
-
-      "type": 3,
-
-      "api": "csp_Mjxq",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1
-
-    },
-        {
             "key": "csp_CZSPP",
             "name": "厂长",
             "type": 3,
@@ -143,7 +126,7 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
         },
-        {
+        //{
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光(B)",
             "type": 3,
@@ -153,7 +136,7 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a00-lgyy.js"
         },
-        {
+        //{
             "key": "csp_XBiubiubiubiu_cokemv",
             "name": "Coke(B)",
             "type": 3,
