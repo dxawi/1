@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "csp_77",
-            "name": "七七",
+            "name": "酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -11,7 +11,7 @@
         },  
         {
             "key": "csp_CZSPP",
-            "name": "厂长",
+            "name": "厂长影视",
             "type": 3,
             "api": "csp_CZSPP",
             "searchable": 1,
@@ -20,7 +20,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "低端",
+            "name": "低端影视",
             "type": 3,
             "api": "csp_DiDuan",
             "searchable": 1,
@@ -29,7 +29,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "Coke",
+            "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -38,7 +38,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪(B)",
+            "name": "乐猪TV",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -47,8 +47,18 @@
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
         },
         {
+            "key": "csp_XBiubiubiubiu_ysgc",
+            "name": "影视工厂",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
+        },
+        {
             "key": "csp_XBiubiubiubiu_蓝光影视",
-            "name": "蓝光",
+            "name": "蓝光影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -58,7 +68,7 @@
         },       
         {
             "key": "csp_xpath_网络搜集库112",
-            "name": "工人",
+            "name": "工人影视",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -67,18 +77,8 @@
             "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
         },
         {
-            "key": "csp_xpath_网络搜集源03",
-            "name": "在线",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/zxzj.js"
-        },
-        {
             "key": "csp_xpath_hhys",
-            "name": "火火",
+            "name": "火火影视",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -88,7 +88,7 @@
         },      
         {
             "key": "csp_xpath_网络搜集库108",
-            "name": "小熊",
+            "name": "小熊影视",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -98,7 +98,7 @@
         },
         {
             "key": "csp_biubiu_维奇动漫",
-            "name": "维奇",
+            "name": "维奇动漫",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -106,19 +106,10 @@
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
         },
-        {
-            "key": "csp_XBiubiubiubiu_ysgc",
-            "name": "工厂(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
-        },
+
         {
             "key": "csp_biubiu_瓜皮TV",
-            "name": "瓜皮(B)",
+            "name": "瓜皮TV",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -128,7 +119,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_555",
-            "name": "555(B)",
+            "name": "555影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
