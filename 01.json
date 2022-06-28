@@ -37,8 +37,48 @@
             "filterable": 1
         },
         {
+            "key":"csp_xpath_网络搜集源03",
+            "name":"在线(P)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"
+        },
+        {   "key":"csp_biubiu_厂长资源-蓝光",
+            "name":"厂长(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
+        },
+
+        {
+            "key":"csp_XBiubiubiubiu_libvio",
+            "name":"libvio(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
+        },
+        {
+            "key":"csp_XBiubiubiubiu_cokemv",
+            "name":"Coke(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
+        },
+        {
             "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪",
+            "name": "乐猪(B)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -48,7 +88,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
-            "name": "影视工厂",
+            "name": "影视工厂(B)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -58,7 +98,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_蓝光影视",
-            "name": "蓝光",
+            "name": "蓝光(B)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -68,7 +108,7 @@
         },       
         {
             "key": "csp_xpath_网络搜集库112",
-            "name": "工人",
+            "name": "工人(P)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -78,7 +118,7 @@
         },
         {
             "key": "csp_xpath_hhys",
-            "name": "火火",
+            "name": "火火(P)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -88,7 +128,7 @@
         },      
         {
             "key": "csp_xpath_网络搜集库108",
-            "name": "小熊",
+            "name": "小熊(P)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -98,7 +138,7 @@
         },
         {
             "key": "csp_biubiu_维奇动漫",
-            "name": "维奇动漫",
+            "name": "维奇动漫(B)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -109,7 +149,7 @@
 
         {
             "key": "csp_biubiu_瓜皮TV",
-            "name": "瓜皮",
+            "name": "瓜皮(B)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -119,7 +159,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_555",
-            "name": "555",
+            "name": "555(B)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -129,7 +169,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
-            "name": "虎牙",
+            "name": "虎牙(P)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -139,7 +179,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷",
+            "name": "球迷(P)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -149,7 +189,7 @@
         },
         {
             "key": "csp_xpath_A33",
-            "name": "MTV",
+            "name": "MTV(P)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
