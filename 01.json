@@ -179,7 +179,7 @@
             "key": "push_agent",
             "name": "推送",
             "type": 3,
-            "api": "csp_Ali",
+            "api": "csp_PushAgent",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
