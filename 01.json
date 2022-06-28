@@ -9,11 +9,24 @@
             "quickSearch": 1,
             "filterable": 1
         },  
-        {"key": "csp_Buka"       ,"name":"真不卡(爬)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
-        {"key": "csp_Auete"      ,"name":"Auete〔P〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-        {"key": "csp_DiDuan"     ,"name":"低端影视〔P〕","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
-        {"key": "csp_Zxzj"       ,"name":"在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},    
-        
+        {
+            "key": "csp_Buka",
+            "name": "真不卡🐞",
+            "type":3,
+            "api":"csp_Buka",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":1
+        },
+        {
+            "key": "csp_DiDuan",
+            "name": "低端🐞",
+            "type":3,
+            "api":"csp_DiDuan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
         {
             "key":"csp_Kuaikan",
             "name": "快看🐞",
@@ -32,15 +45,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_DiDuan",
-            "name": "低端🐞",
-            "type": 3,
-            "api": "csp_DiDuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         {
             "key": "csp_Cokemv",
             "name": "Coke🐞",
@@ -49,19 +54,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },  
+        {
+            "key": "csp_DiDuan",
+            "name": "低端1🐞",
+            "type": 3,
+            "api": "csp_DiDuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key":"csp_xpath_网络搜集源03",
-            "name": "在线",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"
-        },
-        {
-
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪",
             "type": 3,
@@ -102,7 +105,6 @@
             "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
         },
         {
-
             "key":"csp_XBiubiubiubiu_libvio",
             "name": "libvio",
             "type":3,
@@ -111,6 +113,16 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
+        },
+        {
+            "key":"csp_xpath_网络搜集源03",
+            "name": "在线",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"
         },
         {   "key":"csp_biubiu_厂长资源-蓝光",
             "name": "厂长",
