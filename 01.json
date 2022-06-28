@@ -9,6 +9,11 @@
             "quickSearch": 1,
             "filterable": 1
         },  
+        {"key": "csp_Buka"       ,"name":"真不卡(爬)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
+        {"key": "csp_Auete"      ,"name":"Auete〔P〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+        {"key": "csp_DiDuan"     ,"name":"低端影视〔P〕","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
+        {"key": "csp_Zxzj"       ,"name":"在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},    
+        
         {
             "key":"csp_Kuaikan",
             "name": "快看🐞",
