@@ -10,6 +10,15 @@
             "filterable": 1
         },  
         {
+            "key":"csp_Kuaikan",
+            "name":"快看",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key": "csp_CZSPP",
             "name": "厂长",
             "type": 3,
@@ -46,37 +55,8 @@
             "filterable":1,
             "ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"
         },
-        {   "key":"csp_biubiu_厂长资源-蓝光",
-            "name":"厂长(B)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
-        },
+        {
 
-        {
-            "key":"csp_XBiubiubiubiu_libvio",
-            "name":"libvio(B)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
-        },
-        {
-            "key":"csp_XBiubiubiubiu_cokemv",
-            "name":"Coke(B)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
-        },
-        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(B)",
             "type": 3,
@@ -96,6 +76,56 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
         },
+        {
+            "key":"csp_XBiubiubiubiu_lmys",
+            "name":"蓝莓(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
+        },
+        {
+            "key":"csp_biubiu_特狗影视",
+            "name":"特狗(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
+        },
+        {
+
+            "key":"csp_XBiubiubiubiu_libvio",
+            "name":"libvio(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
+        },
+        {   "key":"csp_biubiu_厂长资源-蓝光",
+            "name":"厂长(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
+        },        
+        {
+            "key":"csp_XBiubiubiubiu_cokemv",
+            "name":"Coke(B)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
+        },       
         {
             "key": "csp_XBiubiubiubiu_蓝光影视",
             "name": "蓝光(B)",
