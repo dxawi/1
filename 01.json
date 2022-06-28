@@ -8,25 +8,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },  
-        {
-            "key": "csp_DiDuan",
-            "name": "低端🐞",
-            "type": 3,
-            "api": "csp_DiDuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Buka",
-            "name": "真不卡🐞",
-            "type":3,
-            "api":"csp_Buka",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1
-        },
+        },    
         {
             "key":"csp_Kuaikan",
             "name": "快看🐞",
@@ -44,7 +26,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },       
+        },  
+        {
+            "key": "csp_DiDuan",
+            "name": "低端🐞",
+            "type": 3,
+            "api": "csp_DiDuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Cokemv",
             "name": "Coke🐞",
@@ -53,7 +44,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },          
+        },  
+        {
+            "key": "csp_Buka",
+            "name": "真不卡🐞",
+            "type":3,
+            "api":"csp_Buka",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":1
+        },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪",
