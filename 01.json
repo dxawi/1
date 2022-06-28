@@ -54,6 +54,15 @@
             "quickSearch":0,
             "filterable":1
         },
+        {"key":"csp_biubiu_真不卡zhenbuka3","name":"🐛真不卡1(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1zhenbuka3%28ns%29.json"},
+
+{"key":"csp_biubiu_真不卡cerrd","name":"🐛真不卡2(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd%28ns%29.json"},
+
+{"key":"csp_biubiu_奇优影院ns","name":"🐛奇优影院(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/src/branch/main/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2%EF%BC%88ns%EF%BC%89.json"},  
+        {"key":"csp_xpath_dm84","name":"🦋动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/dxa/1/raw/branch/main/dm84.json"},
+        
+        
+        
         {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪",
