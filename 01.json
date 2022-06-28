@@ -55,15 +55,6 @@
             "filterable":1
         },
         {
-            "key": "csp_DY1990",
-            "name":"九零影视🐞",
-            "type":3,
-            "api":"csp_DY1990",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
-        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪",
             "type": 3,
@@ -123,35 +114,6 @@
             "filterable":1,
             "ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"
         },
-        {   "key":"csp_biubiu_厂长资源-蓝光",
-            "name": "厂长",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
-        },        
-        {
-            "key":"csp_XBiubiubiubiu_cokemv",
-            "name": "Coke",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
-        },       
-        {
-            "key": "csp_XBiubiubiubiu_蓝光影视",
-            "name": "蓝光",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
-        },       
         {
             "key": "csp_xpath_网络搜集库112",
             "name": "工人",
@@ -184,7 +146,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋(B)",
+            "name": "口袋",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -194,23 +156,13 @@
         },
         {
             "key": "csp_biubiu_大米星球",
-            "name": "大米(B)",
+            "name": "大米",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a13-dmxq.js"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_4kan电影网",
-            "name": "4k网(B)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b11-4Kkan.js"
         },
         {
             "key": "csp_biubiu_维奇动漫",
@@ -232,6 +184,35 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
         },
+        {   "key":"csp_biubiu_厂长资源-蓝光",
+            "name": "厂长",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
+        },        
+        {
+            "key":"csp_XBiubiubiubiu_cokemv",
+            "name": "Coke",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
+        },       
+        {
+            "key": "csp_XBiubiubiubiu_蓝光影视",
+            "name": "蓝光",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
+        },       
         {
             "key": "csp_xpath_网络搜集库huaya",
             "name": "虎牙",
