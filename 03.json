@@ -11,6 +11,59 @@
       "quickSearch": 1,
       "filterable": 0
     },
+   {
+
+      "key": "csp_IKan",
+
+      "name": "爱看(SP)",
+
+      "type": 3,
+
+      "api": "csp_IKan",
+
+      "quickSearch": 1,
+
+      "searchable": 1,
+
+      "filterable": 1
+
+    },
+
+    {
+
+      "key": "csp_Mjxq",
+
+      "name": "美剧星球(SP)",
+
+      "type": 3,
+
+      "api": "csp_Mjxq",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+
+    },
+
+    {
+
+      "key": "csp_BBB",
+
+      "name": "哔哩套餐",
+
+      "type": 3,
+
+      "api": "csp_BBB",
+
+      "searchable": 0,
+
+      "quickSearch": 0,
+
+      "filterable": 1
+
+    },
 
     {
       "key": "csp_77",
@@ -78,24 +131,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },  
-    {
-      "key": "csp_GitCafe",
-      "name": "阿里纸条",
-      "type": 3,
-      "api": "csp_GitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_AliPanSou",
-      "name": "阿里喵搜",
-      "type": 3,
-      "api": "csp_AliPanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "9E03",
@@ -146,15 +181,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "csp_BBB",
-      "name": "bilibili",
-      "type": 3,
-      "api": "csp_BBB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_Blixs",
@@ -241,16 +267,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XBiubiu/lezhutv.json"
-    },
-    {
-      "key": "csp_biubiu_YYDS影院",
-      "name": "YYDS影院(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://kvymin.github.io/CatVod/XBiubiu/YYDS影院.json"
     },
     {
       "key": "csp_biubiu_哔嘀影视",
