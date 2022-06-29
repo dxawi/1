@@ -47,7 +47,7 @@
         //},
         {
             "key": "csp_Cokemv",
-            "name": "Coke",
+            "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -244,7 +244,7 @@
         //},        
         //{
             //"key":"csp_XBiubiubiubiu_cokemv",
-            //"name": "Coke",
+            //"name": "Cokemv",
             //"type":3,
             //"api":"csp_XBiubiu",
             //"searchable":1,
