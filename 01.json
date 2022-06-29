@@ -1,15 +1,5 @@
 {
-    "sites": [
-        {
-            "key":"csp_xpath_lezhutv",
-            "name":"乐猪TV",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"
-        },
+    "sites": [     
         {
             "key": "csp_77",
             "name": "七七",
@@ -243,7 +233,17 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://gitea.com/dxa/1/raw/branch/main/dm84.json"
-        },                   
+        },    
+        {
+            "key":"csp_xpath_lezhutv",
+            "name":"乐猪TV",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"
+        },
         {   "key":"csp_biubiu_厂长资源-蓝光",
             "name": "厂长2",
             "type":3,
