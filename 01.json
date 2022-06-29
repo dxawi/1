@@ -10,21 +10,22 @@
             "filterable": 1
         },      
         {
-
             "key": "csp_Bttoo",
-
             "name": "Bttoo",
-
             "type": 3,
-
             "api": "csp_Bttoo",
-
             "searchable": 1,
-
             "quickSearch": 1,
-
             "filterable": 1
-
+        },     
+        {
+            "key": "csp_IKan",
+            "name": "爱看(SP)",
+            "type": 3,
+            "api": "csp_IKan",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
         },
         {
             "key": "csp_CZSPP",
@@ -102,23 +103,14 @@
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
         },
         {
-
             "key": "美剧虫",
-
             "name": "美剧虫(v1)",
-
             "type": 3,
-
             "api": "csp_AppYs",
-
             "searchable": 1,
-
             "quickSearch": 1,
-
             "filterable": 1,
-
             "ext": "https://meijuchong.com/api.php/v1.vod"
-
         },
         {
             "key":"csp_biubiu_厂长资源",
@@ -340,57 +332,31 @@
             "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
         },   
         {
-
             "key": "csp_Blixs",
-
             "name": "相声小品",
-
             "type": 3,
-
             "api": "csp_Blixs",
-
             "searchable": 1,
-
             "quickSearch": 1,
-
             "filterable": 1
-
         },
-
         {
-
             "key": "csp_Blidw",
-
             "name": "动物世界",
-
             "type": 3,
-
             "api": "csp_Blidw",
-
             "searchable": 1,
-
             "quickSearch": 1,
-
             "filterable": 1
-
         },
-
         {
-
             "key": "csp_Blixq",
-
             "name": "戏曲",
-
             "type": 3,
-
             "api": "csp_Blixq",
-
             "searchable": 1,
-
             "quickSearch": 1,
-
             "filterable": 1
-
         },
         {
             "key": "push_agent",
