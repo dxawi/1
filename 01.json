@@ -1,8 +1,18 @@
 {
     "sites": [
         {
+            "key":"csp_xpath_lezhutv",
+            "name":"乐猪TV",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"
+        },
+        {
             "key": "csp_77",
-            "name": "🍊七七",
+            "name": "七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -11,7 +21,7 @@
         },           
         {
             "key": "csp_CZSPP",
-            "name": "🍊厂长",
+            "name": "厂长",
             "type": 3,
             "api": "csp_CZSPP",
             "searchable": 1,
@@ -20,7 +30,7 @@
         },  
         {
             "key":"csp_Kuaikan",
-            "name": "🍊快看",
+            "name": "快看",
             "type":3,
             "api":"csp_Kuaikan",
             "searchable":1,
@@ -29,7 +39,7 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "🍊低端",
+            "name": "低端",
             "type": 3,
             "api": "csp_DiDuan",
             "searchable": 1,
@@ -38,22 +48,22 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "🍊Cokemv",
+            "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },  
-        {
-            "key": "csp_Buka",
-            "name": "🍊真不卡",
-            "type":3,
-            "api":"csp_Buka",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":1
-        },
+        //{
+            //"key": "csp_Buka",
+            //"name": "真不卡",
+            //"type":3,
+            //"api":"csp_Buka",
+            //"searchable":1,
+            //"quickSearch":0,
+            //"filterable":1
+        //},
         //{
             //"key":"csp_biubiu_真不卡zhenbuka3",
             //"name": "真不卡1",
@@ -134,16 +144,6 @@
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
         }, 
-        {
-            "key":"csp_xpath_lezhutv",
-            "name":"乐猪TV",
-            "type":3,
-            "api":"csp_XPathMac",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"
-        },
         {
             "key":"csp_XBiubiubiubiu_lmys",
             "name": "蓝莓",
