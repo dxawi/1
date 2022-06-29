@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "csp_77",
-            "name": "七七",
+            "name": "🍊七七",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -11,7 +11,7 @@
         },           
         {
             "key": "csp_CZSPP",
-            "name": "厂长",
+            "name": "🍊厂长",
             "type": 3,
             "api": "csp_CZSPP",
             "searchable": 1,
@@ -20,7 +20,7 @@
         },  
         {
             "key":"csp_Kuaikan",
-            "name": "快看",
+            "name": "🍊快看",
             "type":3,
             "api":"csp_Kuaikan",
             "searchable":1,
@@ -29,40 +29,31 @@
         },
         {
             "key": "csp_DiDuan",
-            "name": "低端",
+            "name": "🍊低端",
             "type": 3,
             "api": "csp_DiDuan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-        //{
-            //"key":"csp_SP360",
-            //"name":"360",
-            //"type":3,
-            //"api":"csp_SP360",
-            //"searchable":1,
-            //"quickSearch":1,
-            //"filterable":1
-        //},
         {
             "key": "csp_Cokemv",
-            "name": "Cokemv",
+            "name": "🍊Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },  
-        //{
-            //"key": "csp_Buka",
-            //"name": "真不卡",
-            //"type":3,
-            //"api":"csp_Buka",
-            //"searchable":1,
-            //"quickSearch":0,
-            //"filterable":1
-        //},
+        {
+            "key": "csp_Buka",
+            "name": "🍊真不卡",
+            "type":3,
+            "api":"csp_Buka",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":1
+        },
         //{
             //"key":"csp_biubiu_真不卡zhenbuka3",
             //"name": "真不卡1",
@@ -94,6 +85,16 @@
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
         },
         {
+            "key":"csp_biubiu_厂长资源",
+            "name":"厂长1",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json"
+        },       
+        {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "影视工厂",
             "type": 3,
@@ -102,6 +103,26 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
+        },      
+        {
+            "key":"csp_XPath_bidiys",
+            "name":"哔嘀影视",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/bidiys2.json"
+        },
+        {
+            "key":"csp_biubiu_爱港剧",
+            "name":"爱港剧",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%88%B1%E6%B8%AF%E5%89%A7.json"
         },
         {
             "key": "csp_XBiubiubiubiu_蓝光影视",
@@ -112,7 +133,17 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
-        },       
+        }, 
+        {
+            "key":"csp_xpath_lezhutv",
+            "name":"乐猪TV",
+            "type":3,
+            "api":"csp_XPathMac",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"
+        },
         {
             "key":"csp_XBiubiubiubiu_lmys",
             "name": "蓝莓",
@@ -203,16 +234,6 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a13-dmxq.js"
         },
-        //{
-            //"key": "csp_XBiubiubiubiu_555",
-            //"name": "555",
-            //"type": 3,
-            //"api": "csp_XBiubiu",
-            //"searchable": 1,
-            //"quickSearch": 1,
-            //"filterable": 0,
-            //"ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
-        //},
         {
             "key":"csp_xpath_dm84",
             "name": "动漫巴士",
@@ -223,35 +244,25 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/1/raw/branch/main/dm84.json"
         },                   
-        //{
-            //"key": "csp_biubiu_维奇动漫",
-            //"name": "维奇动漫",
-            //"type": 3,
-            //"api": "csp_XBiubiu",
-            //"searchable": 1,
-            //"quickSearch": 1,
-            //"filterable": 0,
-            //"ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
-        //},
-        //{   "key":"csp_biubiu_厂长资源-蓝光",
-            //"name": "厂长",
-            //"type":3,
-            //"api":"csp_XBiubiu",
-            //"searchable":1,
-            //"quickSearch":1,
-            //"filterable":0,
-            //"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
-        //},        
-        //{
-            //"key":"csp_XBiubiubiubiu_cokemv",
-            //"name": "Cokemv",
-            //"type":3,
-            //"api":"csp_XBiubiu",
-            //"searchable":1,
-            //"quickSearch":1,
-            //"filterable":0,
-            //"ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
-        //},       
+        {   "key":"csp_biubiu_厂长资源-蓝光",
+            "name": "厂长2",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
+        },        
+        {
+            "key":"csp_XBiubiubiubiu_cokemv",
+            "name": "Cokemv",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
+        },       
         {
             "key": "csp_xpath_网络搜集库huaya",
             "name": "虎牙",
