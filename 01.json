@@ -255,7 +255,7 @@
         },        
         {
             "key":"csp_XBiubiubiubiu_cokemv",
-            "name": "Cokemv",
+            "name": "Cokemv1",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
