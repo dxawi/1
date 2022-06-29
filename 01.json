@@ -203,16 +203,16 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a13-dmxq.js"
         },
-        {
-            "key": "csp_XBiubiubiubiu_555",
-            "name": "555",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
-        },
+        //{
+            //"key": "csp_XBiubiubiubiu_555",
+            //"name": "555",
+            //"type": 3,
+            //"api": "csp_XBiubiu",
+            //"searchable": 1,
+            //"quickSearch": 1,
+            //"filterable": 0,
+            //"ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
+        //},
         {
             "key":"csp_xpath_dm84",
             "name": "动漫巴士",
