@@ -11,58 +11,14 @@
       "quickSearch": 1,
       "filterable": 0
     },
-   {
-
+    {
       "key": "csp_IKan",
-
       "name": "爱看(SP)",
-
       "type": 3,
-
       "api": "csp_IKan",
-
       "quickSearch": 1,
-
       "searchable": 1,
-
       "filterable": 1
-
-    },
-
-    {
-
-      "key": "csp_Mjxq",
-
-      "name": "美剧星球(SP)",
-
-      "type": 3,
-
-      "api": "csp_Mjxq",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1
-
-    },
-
-    {
-
-      "key": "csp_BBB",
-
-      "name": "哔哩套餐",
-
-      "type": 3,
-
-      "api": "csp_BBB",
-
-      "searchable": 0,
-
-      "quickSearch": 0,
-
-      "filterable": 1
-
     },
 
     {
@@ -125,7 +81,7 @@
 
     {
       "key": "csp_Bttoo",
-      "name": "两个BT",
+      "name": "Bttoo",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
