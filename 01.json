@@ -20,7 +20,7 @@
         },     
         {
             "key": "csp_IKan",
-            "name": "爱看(SP)",
+            "name": "爱看",
             "type": 3,
             "api": "csp_IKan",
             "quickSearch": 1,
@@ -104,7 +104,7 @@
         },
         {
             "key": "美剧虫",
-            "name": "美剧虫(v1)",
+            "name": "美剧虫",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
