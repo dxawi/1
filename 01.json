@@ -63,9 +63,6 @@
             "quickSearch": 1,
             "filterable": 1
         },    
-        {"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
         //{
             //"key": "csp_Buka",
             //"name": "真不卡",
