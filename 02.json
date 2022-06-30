@@ -92,6 +92,34 @@
       "filterable": 1
     },
     {
+            "key":"csp_GitCafe",
+            "name": "小纸条",
+            "type":3,
+            "api":"csp_GitCafe",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+    },
+    {
+            "key":"csp_AliPanSou",
+            "name": "喵狸盘搜(只支持搜索)",
+            "type":3,
+            "api":"csp_AliPanSou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+    },
+    {
+            "key":"csp_biubiu_真不卡cerrd",
+            "name": "真不卡(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd%28ns%29.json"
+    },   
+    {
       "key": "300看世界",
       "name": "300看世界(V2)",
       "type": 3,
@@ -544,5 +572,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/02.jar"
+    "spider":"https://gitea.com/dxa/1/raw/branch/main/0630.jar",
+    //"spider": "https://gitea.com/dxa/1/raw/branch/main/02.jar"
 }
