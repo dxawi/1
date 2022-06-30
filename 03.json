@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "csp_CZSPP",
-      "name": "厂长资源",
+      "name": "厂长资源(SP)",
       "type": 3,
       "api": "csp_CZSPP",
       "searchable": 1,
@@ -20,10 +20,9 @@
       "searchable": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_77",
-      "name": "酷云七七",
+      "name": "酷云七七(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -32,27 +31,25 @@
     },
     {
       "key": "csp_Buka",
-      "name": "真不卡",
+      "name": "真不卡(SP)",
       "type": 3,
       "api": "csp_Buka",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_DiDuan",
-      "name": "低端影视",
+      "name": "低端影视(SP)",
       "type": 3,
       "api": "csp_DiDuan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-
     {
       "key": "csp_Auete",
-      "name": "Auete",
+      "name": "Auete(SP)",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -61,27 +58,25 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "Cokemv",
+      "name": "Cokemv(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_kuaikan",
-      "name": "快看影视",
+      "name": "快看影视(SP)",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "csp_Bttoo",
-      "name": "Bttoo",
+      "name": "Bttoo(SP)",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
@@ -90,7 +85,7 @@
     },
     {
       "key": "9E03",
-      "name": "9E03(V2)",
+      "name": "9E03(v2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -130,7 +125,7 @@
     },
     {
       "key": "csp_appysv2_爱酷影视",
-      "name": "爱酷影视",
+      "name": "爱酷影视(v2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -254,7 +249,6 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XPathFilter/libvio.json"
     },
-  
     {
       "key": "csp_xpath_ddg",
       "name": "达达龟(XPF)",
@@ -265,8 +259,6 @@
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/XPathMacFilter/dadagui.json"
     },
-
-  
     {
       "key": "动漫84",
       "name": "动漫84(XP)",
@@ -276,8 +268,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://kvymin.github.io/CatVod/Xpath/dm84.json"
-    },
- 
+    }, 
     {
       "key": "push_agent",
       "name": "推送",
