@@ -63,6 +63,33 @@
             "quickSearch": 1,
             "filterable": 1
         },    
+        {
+            "key": "csp_BBB",
+            "name": "哔哩套餐",
+            "type": 3,
+            "api": "csp_BBB",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key":"csp_GitCafe",
+            "name":"小纸条",
+            "type":3,
+            "api":"csp_GitCafe",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
+        {
+            "key":"csp_AliPanSou",
+            "name":"喵狸盘搜(只支持搜索)",
+            "type":3,
+            "api":"csp_AliPanSou",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        },
         //{
             //"key": "csp_Buka",
             //"name": "真不卡",
@@ -320,43 +347,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
-        },
-        {
-            "key": "csp_xpath_A33",
-            "name": "MTV",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
-        },   
-        {
-            "key": "csp_Blixs",
-            "name": "相声小品",
-            "type": 3,
-            "api": "csp_Blixs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Blidw",
-            "name": "动物世界",
-            "type": 3,
-            "api": "csp_Blidw",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Blixq",
-            "name": "戏曲",
-            "type": 3,
-            "api": "csp_Blixq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "push_agent",
@@ -818,5 +808,5 @@
     ],
     "wallpaper": "https://picsum.photos/1080",
     //"spider": "https://gitea.com/dxa/1/raw/branch/main/608_sj_36_bk.txt;md5;065C92F7720FA01E64086455D201CFE1"
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/03.jar"
+    "spider": "https://gitea.com/dxa/1/raw/branch/main/0630.jar"
 }
