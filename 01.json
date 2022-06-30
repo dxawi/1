@@ -358,19 +358,26 @@
             "filterable": 0
         }
     ],
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="
-                    ]
-                }
-            ]
-        }
-    ],
+    "lives":[
+
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC90dmJ3L215dHYvbWFpbi90djg4"]}]}],
+
+
+    
+    
+    //"lives": [
+       // {
+           // "group": "redirect",
+            //"channels": [
+                //{
+                    //"name": "live",
+                    //"urls": [
+                        //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="
+                    //]
+                //}
+            //]
+        //}
+    //],
     "parses": [
         {
             "name": "默认选项",
