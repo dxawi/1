@@ -20,6 +20,15 @@
       "filterable": 1
     },
     {
+      "key":"csp_LiteApple",
+      "name":"小苹果(SP)",
+      "type":3,
+      "api":"csp_LiteApple",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Buka",
       "name": "真不卡(SP)",
       "type": 3,
@@ -92,13 +101,13 @@
       "filterable": 1
     },
     {
-            "key":"csp_GitCafe",
-            "name": "小纸条",
-            "type":3,
-            "api":"csp_GitCafe",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
+      "key":"csp_GitCafe",
+      "name": "小纸条",
+      "type":3,
+      "api":"csp_GitCafe",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
     },
     {
             "key":"csp_AliPanSou",
@@ -572,6 +581,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-    "spider":"https://gitea.com/dxa/1/raw/branch/main/0630.jar",
+    "spider":"https://gitea.com/dxa/1/raw/branch/main/0701.jar",
     //"spider": "https://gitea.com/dxa/1/raw/branch/main/02.jar"
 }
