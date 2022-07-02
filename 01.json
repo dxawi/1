@@ -29,7 +29,7 @@
         },  
         {
             "key":"csp_LiteApple",
-            "name":"小苹果(SP)",
+            "name":"小苹果",
             "type":3,
             "api":"csp_LiteApple",
             "searchable":1,
