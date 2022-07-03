@@ -20,15 +20,6 @@
       "filterable": 1
     },
     {
-      "key":"csp_LiteApple",
-      "name":"小苹果(SP)",
-      "type":3,
-      "api":"csp_LiteApple",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Buka",
       "name": "真不卡(SP)",
       "type": 3,
