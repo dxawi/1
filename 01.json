@@ -354,9 +354,34 @@
             "filterable": 0
         }
     ],
-    "lives":[
+    "lives": [
 
-{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC90dmJ3L215dHYvbWFpbi90djg4"]}]}],
+    {
+
+      "group": "redirect",
+
+      "channels": [
+
+        {
+
+          "name": "redirect",
+
+          "urls": [
+
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
+
+          ]
+
+        }
+
+      ]
+
+    }
+
+  ],
+    //"lives":[
+
+//{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC90dmJ3L215dHYvbWFpbi90djg4"]}]}],
 
 
     
