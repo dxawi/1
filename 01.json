@@ -100,6 +100,15 @@
             "filterable":1
         },
         {
+            "key":"zxzj",
+            "name":"在线之家",
+            "type":3,
+            "api":"csp_Zxzj",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"9E03",
             "name":"9E03",
             "type":3,
@@ -119,26 +128,26 @@
             "filterable":1,
             "ext":"https://kvymin.github.io/CatVod/sub/tester.json"
         },
-        {
-            "key":"AliPS",
-            "name":"盘搜",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"dcbc975ad0684eb5a498ecd1836272e6"
-        },
-        {
-            "key":"Gitcafe",
-            "name":"小纸条",
-            "type":3,
-            "api":"csp_Gitcafe",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"dcbc975ad0684eb5a498ecd1836272e6"
-        },
+         //{
+            // "key":"AliPS",
+           //  "name":"盘搜",
+          //   "type":3,
+         //    "api":"csp_AliPS",
+          //   "searchable":1,
+         //    "quickSearch":1,
+          //   "filterable":1,
+         //    "ext":"dcbc975ad0684eb5a498ecd1836272e6"
+      //   },
+     //    {
+           //  "key":"Gitcafe",
+             //"name":"小纸条",
+         //    "type":3,
+          //   "api":"csp_Gitcafe",
+         //    "searchable":1,
+            // "quickSearch":1,
+          //   "filterable":1,
+         //    "ext":"dcbc975ad0684eb5a498ecd1836272e6"
+    //     },
 
 
         //{
