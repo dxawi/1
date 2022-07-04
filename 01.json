@@ -1,42 +1,6 @@
 {
     "sites": [     
         {
-            "key": "csp_77",
-            "name": "七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },      
-        {
-            "key": "csp_IKan",
-            "name": "爱看(SP)",
-            "type": 3,
-            "api": "csp_IKan",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key":"厂长影视",
-            "name":"厂长(SP)",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"csp_Kuaikan",
-            "name": "快看(SP)",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key": "csp_Cokemv",
             "name": "Cokemv(SP)",
             "type": 3,
@@ -46,23 +10,14 @@
             "filterable": 1
         },  
         {
-            "key":"低端影视",
-            "name":"低端(SP)",
+            "key":"Lib",
+            "name":"Libvio(SP)",
             "type":3,
-            "api":"csp_Ddrk",
+            "api":"csp_Lib",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
         },
-        {
-            "key":"360",
-            "name":"360(SP)",
-            "type":3,
-            "api":"csp_SP360",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        }, 
         {
             "key":"Nfyun",
             "name":"Nfyun(SP)",
@@ -91,26 +46,62 @@
             "filterable":1
         },
         {
-            "key":"Lib",
-            "name":"Libvio(SP)",
+            "key": "csp_77",
+            "name": "七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },      
+        {
+            "key": "csp_IKan",
+            "name": "爱看(SP)",
+            "type": 3,
+            "api": "csp_IKan",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key":"厂长影视",
+            "name":"厂长(SP)",
             "type":3,
-            "api":"csp_Lib",
+            "api":"csp_Czsapp",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
         },
         {
-            "key":"zxzj",
-            "name":"在线(SP)",
+            "key":"低端影视",
+            "name":"低端(SP)",
             "type":3,
-            "api":"csp_Zxzj",
+            "api":"csp_Ddrk",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
         },
+        {
+            "key":"csp_Kuaikan",
+            "name": "快看(SP)",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"360",
+            "name":"360(SP)",
+            "type":3,
+            "api":"csp_SP360",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        }, 
         {
             "key":"9E03",
-            "name":"9E03",
+            "name":"9E03(v2)",
             "type":3,
             "api":"csp_AppYsV2",
             "searchable":1,
@@ -129,26 +120,35 @@
             "ext":"https://kvymin.github.io/CatVod/sub/tester.json"
         },
         {
-            "key":"AliPS",
-            "name":"盘搜",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"dcbc975ad0684eb5a498ecd1836272e6"
-         },
-     //    {
-           //  "key":"Gitcafe",
-             //"name":"小纸条",
-         //    "type":3,
-          //   "api":"csp_Gitcafe",
-         //    "searchable":1,
-            // "quickSearch":1,
-          //   "filterable":1,
-         //    "ext":"dcbc975ad0684eb5a498ecd1836272e6"
-    //     },
-
+            "key": "csp_XBiubiubiubiu_lezhu",
+            "name": "乐猪(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
+        },
+        {
+            "key": "美剧虫",
+            "name": "美剧虫(v1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_ysgc",
+            "name": "影视工厂(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
+        },      
         //{
             //"key":"csp_biubiu_真不卡zhenbuka3",
             //"name": "真不卡1",
@@ -161,7 +161,7 @@
         //},
         {
             "key":"csp_biubiu_真不卡cerrd",
-            "name": "真不卡",
+            "name": "真不卡(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -170,58 +170,8 @@
             "ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd%28ns%29.json"
         },   
         {
-            "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
-        },
-        {
-            "key": "美剧虫",
-            "name": "美剧虫",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长1",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json"
-        },       
-        {
-            "key": "csp_XBiubiubiubiu_ysgc",
-            "name": "影视工厂",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
-        },      
-        {
-            "key":"csp_XPath_bidiys",
-            "name": "哔嘀影视",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/bidiys2.json"
-        },
-        {
             "key":"csp_biubiu_爱港剧",
-            "name": "爱港剧",
+            "name": "爱港剧(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -231,7 +181,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_蓝光影视",
-            "name": "蓝光",
+            "name": "蓝光(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -241,7 +191,7 @@
         }, 
         {
             "key":"csp_XBiubiubiubiu_lmys",
-            "name": "蓝莓",
+            "name": "蓝莓(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -251,7 +201,7 @@
         },
         {
             "key":"csp_biubiu_特狗影视",
-            "name": "特狗",
+            "name": "特狗(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -260,18 +210,18 @@
             "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
         },
         {
-            "key":"csp_XBiubiubiubiu_libvio",
-            "name": "libvio",
+            "key":"csp_XPath_bidiys",
+            "name": "哔嘀影视(XP)",
             "type":3,
-            "api":"csp_XBiubiu",
+            "api":"csp_XPath",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/bidiys2.json"
         },
         {
             "key": "csp_xpath_网络搜集库112",
-            "name": "工人",
+            "name": "工人(XPF)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -281,7 +231,7 @@
         },
         {
             "key": "csp_xpath_hhys",
-            "name": "火火",
+            "name": "火火(XPF)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -291,7 +241,7 @@
         },      
         {
             "key": "csp_xpath_网络搜集库108",
-            "name": "小熊",
+            "name": "小熊(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -301,7 +251,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋",
+            "name": "口袋(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -311,7 +261,7 @@
         },
         {
             "key": "csp_biubiu_大米星球",
-            "name": "大米",
+            "name": "大米(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -321,7 +271,7 @@
         },
         {
             "key":"csp_xpath_dm84",
-            "name": "动漫巴士",
+            "name": "动漫巴士(XPF)",
             "type":3,
             "api":"csp_XPathFilter",
             "searchable":1,
@@ -331,7 +281,7 @@
         },    
         {
             "key":"csp_xpath_lezhutv",
-            "name": "乐猪TV",
+            "name": "乐猪TV(XPM)",
             "type":3,
             "api":"csp_XPathMac",
             "searchable":1,
@@ -339,8 +289,18 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"
         },
+        {
+            "key":"csp_biubiu_厂长资源",
+            "name": "厂长1(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json"
+        },       
         {   "key":"csp_biubiu_厂长资源-蓝光",
-            "name": "厂长2",
+            "name": "厂长2(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -350,7 +310,7 @@
         },        
         {
             "key":"csp_XBiubiubiubiu_cokemv",
-            "name": "Cokemv1",
+            "name": "Cokemv(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -359,8 +319,18 @@
             "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
         },       
         {
+            "key":"csp_XBiubiubiubiu_libvio",
+            "name": "libvio(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
+        },
+        {
             "key": "csp_xpath_网络搜集库huaya",
-            "name": "虎牙",
+            "name": "虎牙(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -370,7 +340,7 @@
         },                
         {
             "key":"csp_biubiu_斗鱼",
-            "name": "斗鱼",
+            "name": "斗鱼(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":0,
@@ -380,13 +350,23 @@
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷",
+            "name": "球迷()",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
+        },
+        {
+            "key":"AliPS",
+            "name":"盘搜",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
             "key": "push_agent",

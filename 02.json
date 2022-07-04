@@ -100,15 +100,6 @@
             "filterable":1
         },
         {
-            "key":"zxzj",
-            "name":"在线之家(SP)",
-            "type":3,
-            "api":"csp_Zxzj",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"9E03",
             "name":"9E03(v2)",
             "type":3,
@@ -137,17 +128,7 @@
              "quickSearch":1,
              "filterable":1,
              "ext":"dcbc975ad0684eb5a498ecd1836272e6"
-         },
-        // {
-             //"key":"Gitcafe",
-            // "name":"小纸条",
-             //"type":3,
-            // "api":"csp_Gitcafe",
-            // "searchable":1,
-            // "quickSearch":1,
-             //"filterable":1,
-           //  "ext":"dcbc975ad0684eb5a498ecd1836272e6"
-       //  },
+        },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪影视(XB)",
@@ -230,7 +211,7 @@
         },       
         {
             "key": "csp_xpath_hhys",
-            "name": "火火影视(XP)",
+            "name": "火火影视(XPF)",
             "type": 3,
             "api": "csp_XPathMacFilter",
             "searchable": 1,
@@ -250,7 +231,7 @@
         },
         {
             "key":"csp_xpath_dm84",
-            "name": "动漫巴士(XP)",
+            "name": "动漫巴士(XPF)",
             "type":3,
             "api":"csp_XPathFilter",
             "searchable":1,
@@ -280,7 +261,7 @@
         },
         {
             "key":"csp_xpath_lezhutv",
-            "name": "乐猪TV(XP)",
+            "name": "乐猪TV(XPM)",
             "type":3,
             "api":"csp_XPathMac",
             "searchable":1,
@@ -310,7 +291,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷(XP)",
+            "name": "球迷(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
