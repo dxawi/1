@@ -350,7 +350,7 @@
         },
         {
             "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷()",
+            "name": "球迷(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
