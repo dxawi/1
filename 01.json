@@ -47,7 +47,7 @@
         },  
         {
             "key":"低端影视",
-            "name":"低端影视",
+            "name":"低端",
             "type":3,
             "api":"csp_Ddrk",
             "searchable":1,
@@ -64,10 +64,10 @@
             "filterable":1
         }, 
         {
-            "key":"zxzj",
-            "name":"在线之家",
+            "key":"Nfyun",
+            "name":"Nfyun",
             "type":3,
-            "api":"csp_Zxzj",
+            "api":"csp_Nfyun",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -90,7 +90,6 @@
             "quickSearch":1,
             "filterable":1
         },
-
         {
             "key":"Lib",
             "name":"Libvio",
@@ -110,7 +109,6 @@
             "filterable":1,
             "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
-
         {
             "key":"Bili",
             "name":"B站",
@@ -131,7 +129,6 @@
             "filterable":1,
             "ext":"dcbc975ad0684eb5a498ecd1836272e6"
         },
-
         {
             "key":"Gitcafe",
             "name":"小纸条",
@@ -272,16 +269,6 @@
             "quickSearch":1,
             "filterable":0,
             "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
-        },
-        {
-            "key":"csp_xpath_网络搜集源03",
-            "name": "在线",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/99/x/raw/branch/main/zxzj.js"
         },
         {
             "key": "csp_xpath_网络搜集库112",
