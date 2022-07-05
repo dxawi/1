@@ -378,32 +378,19 @@
             "filterable": 0
         }
     ],
-    "lives": [
-
-    {
-
-      "group": "redirect",
-
-      "channels": [
-
+    "lives":
+    [
         {
-
-          "name": "live",
-
-          "urls": [
-
-            "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2R4YXdpLmdpdGh1Yi5pby8xL3R2Mi50eHQ="
-
-          ]
-
+            "group":"redirect",
+            "channels":[
+                {"name":"live",
+                 "urls":
+                 ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uc3RhdGljYWx5LmNvbS9naC90dmJ3L215dHYvbWFpbi90djg4"
+                 ]
+                }
+            ]
         }
-
-      ]
-
-    }
-
-  ],
-    
+    ],   
     "parses": [
         {
             "name": "默认选项",
