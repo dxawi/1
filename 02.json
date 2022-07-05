@@ -308,7 +308,31 @@
             "quickSearch": 0,
             "filterable": 0
         }
-    ],
+          "lives": [
+
+    {
+
+      "group": "redirect",
+
+      "channels": [
+
+        {
+
+          "name": "live",
+
+          "urls": [    
+
+            "proxy://do=live&type=txt&ext=Y2xhbjovL2NhdC9tbS90di9saXZlLnR4dA="
+
+          ]
+
+        }
+
+      ]
+
+    }
+
+  ],
         "parses": [
         {
             "name": "默认选项",
