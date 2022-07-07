@@ -84,16 +84,6 @@
             "ext": "https://dxawi.github.io/6/lzys.json"
         },
         {
-            "key": "美剧虫",
-            "name": "美剧虫(v1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "影视工厂(XB)",
             "type": 3,
@@ -103,6 +93,16 @@
             "filterable": 0,
             "ext": "https://dxawi.github.io/6/ysgc.json"
         },      
+        {
+            "key": "美剧虫",
+            "name": "美剧虫(v1)",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
         {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
@@ -124,35 +124,15 @@
             "ext": "https://dxawi.github.io/6/lgyy.json"
         },
         {
-            "key":"csp_XBiubiubiubiu_lmys",
-            "name": "蓝莓影视(XB)",
+            "key":"csp_biubiu_厂长资源",
+            "name": "厂长资源(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lmys.json"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_cokemv",
-            "name": "cokemv(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "hhttps://dxawi.github.io/6/cokemv.json"
-        },
-        {
-            "key":"csp_xpath_dm84",
-            "name": "动漫巴士(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
-        },    
+            "ext":"https://dxawi.github.io/6/czzy.json"
+        },       
         {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XPM)",
@@ -164,15 +144,15 @@
             "ext":"https://dxawi.github.io/6/lztv.json"
         },
         {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长资源(XB)",
+            "key":"csp_xpath_dm84",
+            "name": "动漫巴士(XPF)",
             "type":3,
-            "api":"csp_XBiubiu",
+            "api":"csp_XPathFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/czzy.json"
-        },       
+            "ext":"https://dxawi.github.io/6/dm84.json"
+        },    
         {
             "key":"AliPS",
             "name":"盘搜",
