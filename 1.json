@@ -114,6 +114,36 @@
             "ext":"https://dxawi.github.io/6/agj.json"
         },
         {
+            "key": "csp_biubiu_蓝光影院",
+            "name": "蓝光影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/lgyy.json"
+        },
+        {
+            "key":"csp_XBiubiubiubiu_lmys",
+            "name": "蓝莓影视(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/lmys.json"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_cokemv",
+            "name": "cokemv(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "hhttps://dxawi.github.io/6/cokemv.json"
+        },
+        {
             "key":"csp_xpath_dm84",
             "name": "动漫巴士(XPF)",
             "type":3,
