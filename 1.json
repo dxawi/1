@@ -55,15 +55,6 @@
             "filterable":1
         },
         {
-            "key":"低端影视",
-            "name":"低端影视(SP)",
-            "type":3,
-            "api":"csp_Ddrk",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"Bili",
             "name":"B站",
             "type":3,
@@ -123,16 +114,6 @@
             "filterable": 0,
             "ext": "https://dxawi.github.io/6/lgyy.json"
         },
-        {
-            "key":"csp_biubiu_私人影院",
-            "name": "私人影院(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/sryy.json"
-        },       
         {
             "key":"csp_biubiu_真不卡cerrd",
             "name": "真不卡(XB)",
