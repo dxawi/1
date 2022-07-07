@@ -55,6 +55,15 @@
             "filterable":1
         },
         {
+            "key":"低端影视",
+            "name":"低端影视(SP)",
+            "type":3,
+            "api":"csp_Ddrk",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"Bili",
             "name":"B站",
             "type":3,
