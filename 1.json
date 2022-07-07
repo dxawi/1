@@ -29,7 +29,7 @@
         },
         {
             "key": "csp_77",
-            "name": "七七(SP)",
+            "name": "酷云七七(SP)",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -38,7 +38,7 @@
         },      
         {
             "key": "csp_IKan",
-            "name": "爱看(SP)",
+            "name": "爱看影视(SP)",
             "type": 3,
             "api": "csp_IKan",
             "quickSearch": 1,
@@ -47,7 +47,7 @@
         },
         {
             "key":"厂长影视",
-            "name":"厂长(SP)",
+            "name":"厂长影视(SP)",
             "type":3,
             "api":"csp_Czsapp",
             "searchable":1,
@@ -56,7 +56,7 @@
         },
         {
             "key":"低端影视",
-            "name":"低端(SP)",
+            "name":"低端影视(SP)",
             "type":3,
             "api":"csp_Ddrk",
             "searchable":1,
@@ -75,7 +75,7 @@
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪(XB)",
+            "name": "乐猪影视(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -121,7 +121,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/dm84.json"
+            "ext":"https://dxawi.github.io/6/dm84.json"
         },    
         {
             "key":"csp_xpath_lezhutv",
@@ -135,7 +135,7 @@
         },
         {
             "key":"csp_biubiu_厂长资源",
-            "name": "厂长(XB)",
+            "name": "厂长资源(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
