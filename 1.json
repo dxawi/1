@@ -104,6 +104,26 @@
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
         {
+            "key": "csp_biubiu_555电影",
+            "name": "555电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/555dy.json"
+        },
+        {
+            "key": "剧白白",
+            "name": "剧白白(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/6/jbb.json"
+        },    
+        {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
             "type":3,
@@ -163,6 +183,16 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
+        {
+            "key": "Gitcafe",
+            "name": "小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "27b06d5221a24199b15f2e573d847430"
+        },
         {
             "key":"AliPS",
             "name":"盘搜",
