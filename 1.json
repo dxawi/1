@@ -65,6 +65,24 @@
             "filterable":1
         },
         {
+            "key": "zxzj",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Nfyun",
+            "name": "Nf云",
+            "type": 3,
+            "api": "csp_Nfyun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪影视(XB)",
             "type": 3,
@@ -165,14 +183,14 @@
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
         {
-            "key":"Bili",
-            "name":"B站",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/6/bz.json"
+            "key": "Bili",
+            "name": "B站",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"
         },
         {
             "key": "Gitcafe",
