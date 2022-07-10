@@ -511,5 +511,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://dxawi.github.io/1/ts.jar;md5;ead3aa82f84e3a6f7207476dee71bc90"
+  "spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;ead3aa82f84e3a6f7207476dee71bc90"
 }

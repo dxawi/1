@@ -1,3 +1,4 @@
+//来自唐姐的群https://t.me/douluodalu99999
 {
     "sites": [     
         {
@@ -646,6 +647,5 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/c_s.jar;md5;b56df25d618ad76bc8aeb80b181a2685"
-    //"spider": "https://gitea.com/dxa/1/raw/branch/main/0701.jar;md5;449aa602dce7e45af933e7afc05a07ea"
+    "spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;ead3aa82f84e3a6f7207476dee71bc90"
 }
