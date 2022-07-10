@@ -101,16 +101,6 @@
             "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"
         },
         {
-            "key":"Bili",
-            "name":"B站",
-            "type":3,
-            "api":"csp_Bili",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://kvymin.github.io/CatVod/sub/tester.json"
-        },
-        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -348,6 +338,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
+        },
+        {
+            "key":"Bili",
+            "name":"B站",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://kvymin.github.io/CatVod/sub/tester.json"
         },
         {
             "key":"AliPS",
