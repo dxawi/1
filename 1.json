@@ -94,16 +94,6 @@
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
         {
-            "key": "csp_biubiu_555电影",
-            "name": "555电影(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/555dy.json"
-        },
-        {
             "key": "剧白白",
             "name": "剧白白(XPF)",
             "type": 3,
