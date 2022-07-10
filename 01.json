@@ -65,15 +65,6 @@
             "filterable":1
         },
         {
-            "key":"csp_Kuaikan",
-            "name": "快看(SP)",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -82,6 +73,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key": "美剧虫",
@@ -103,26 +104,6 @@
             "filterable": 0,
             "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
         },      
-        //{
-            //"key":"csp_biubiu_真不卡zhenbuka3",
-            //"name": "真不卡1",
-            //"type":3,
-            //"api":"csp_XBiubiu",
-            //"searchable":1,
-            //"quickSearch":1,
-            //"filterable":0,
-            //"ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1zhenbuka3%28ns%29.json"
-        //},
-        {
-            "key":"csp_biubiu_真不卡cerrd",
-            "name": "真不卡(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd%28ns%29.json"
-        },   
         {
             "key": "剧白白",
             "name": "剧白白(XPF)",
@@ -164,66 +145,6 @@
             "ext":"https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
         },
         {
-            "key":"csp_biubiu_特狗影视",
-            "name": "特狗(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
-        },
-        {
-            "key":"csp_XPath_bidiys",
-            "name": "哔嘀影视(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/bidiys2.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库112",
-            "name": "工人(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
-        },
-        {
-            "key": "csp_xpath_hhys",
-            "name": "火火(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
-        },      
-        {
-            "key": "csp_xpath_网络搜集库108",
-            "name": "小熊(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
-        },
-        {
             "key": "csp_biubiu_大米星球",
             "name": "大米(XB)",
             "type": 3,
@@ -253,25 +174,6 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/1/raw/branch/main/lezhutv.json"
         },
-        {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长1(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/1/raw/branch/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89.json"
-        },       
-        {   "key":"csp_biubiu_厂长资源-蓝光",
-            "name": "厂长2(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
-        },        
         {
             "key":"csp_XBiubiubiubiu_cokemv",
             "name": "Cokemv(XB)",

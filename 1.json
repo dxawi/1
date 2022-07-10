@@ -95,6 +95,16 @@
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
         {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
+        },
+        {
             "key": "剧白白",
             "name": "剧白白(XPF)",
             "type": 3,
@@ -134,16 +144,6 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/zbk.json"
         },   
-        {
-            "key":"csp_biubiu_厂长资源",
-            "name": "厂长资源(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/czzy.json"
-        },       
         {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XPM)",
