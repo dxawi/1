@@ -142,6 +142,26 @@
             "ext":"https://gitea.com/dxa/1/raw/branch/main/%E7%9C%9F%E4%B8%8D%E5%8D%A1cerrd%28ns%29.json"
         },   
         {
+            "key": "csp_biubiu_555电影",
+            "name": "555电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/555dy.json"
+        },
+        {
+            "key": "剧白白",
+            "name": "剧白白(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/6/jbb.json"
+        },    
+        {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
             "type":3,
@@ -319,16 +339,6 @@
             "quickSearch":0,
             "filterable":0,
             "ext":"http://freed.yuanhsing.cf/TVBox/MaooXB/斗鱼.json"
-        },
-        {
-            "key": "csp_xpath_网络搜集库qiumi",
-            "name": "球迷(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
         },
         {
             "key":"Bili",
