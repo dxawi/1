@@ -47,15 +47,6 @@
             "filterable":1
         },
         {
-            "key":"Auete",
-            "name": "Auete",
-            "type":3,
-            "api":"csp_Auete",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"360",
             "name": "360",
             "type":3,
@@ -63,16 +54,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
@@ -103,6 +84,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key": "剧白白",
