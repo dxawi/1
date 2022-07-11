@@ -314,6 +314,16 @@
                         "header":{"User-Agent":"Dalvik/2.1.0"}
                         }
         },
+        {
+               "name": "Web解析",
+               "type": 0,
+               "url": "https://chaxun.truechat365.com/?url=",
+               "ext": {
+                         "flag": [
+                         "youku", "优酷", "mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"
+                         ]
+                         }
+        },
         {     
                "name":"江湖",
                "type":1,
