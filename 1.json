@@ -144,8 +144,6 @@
             "filterable":0,
             "ext":"https://dxawi.github.io/6/zbk.json"
         },   
-        {"key":"csp_biubiu_哔嘀影视","name":"🐛哔嘀影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/6/bdys1.json"},
-        {"key":"csp_XPath_bidiys","name":"🦋哔嘀影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/6/bdys2.json"},
         {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XPM)",
