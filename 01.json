@@ -375,16 +375,6 @@
                       }
         },
         {
-             "name":"网络搜集05",
-             "type":1,
-             "url":"https://a.dxzj88.com/jxrrm/jiami.php?url=",
-             "ext":{
-                      "flag":[
-                      "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","芒果","mgtv","xigua","wuduzy","bilibili","pptv","leduo","Clk4","哔哩","renrenmi","ltnb","rx"
-                      ]
-                      }
-        },
-        {
             "name":"renrenmi3",
             "type":1,
             "url":"https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
@@ -393,11 +383,6 @@
                      "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","芒果","mgtv","xigua","wuduzy","bilibili","pptv","leduo","Clk4","哔哩","renrenmi","ltnb","rx"
                      ]
                      }
-        },
-        {
-            "name": "默认选项",
-            "type": 3,
-            "url": "Demo"
         },
         {
             "name": "01",
