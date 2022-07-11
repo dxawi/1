@@ -304,47 +304,38 @@
                        }
         },
         {
-              "name":"9",
-              "type":1,
-              "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-              "ext":{
-                       "flag":[
-                       "qiyi","youku","mgtv","qq","sohu","bilibili","xigua","1905"
-                       ]
-                       }
-        },
-        {
               "name":"11",
               "type":1,
               "url":"http://124.222.68.182/jiexi/4kJX.php/?url=",
               "ext":{
-                       "flag":[
-                       "qiyi","youku","mgtv","qq","sohu","bilibili","xigua","1905"
-                       ]
+                       "flag":[ "qiyi","youku","mgtv","qq","sohu","bilibili","xigua","1905"]
                        }
         },
         {
-             "name": "虾米",
-             "type":1,
-             "url":"https://jx.xmflv.com/?url=",
-             "ext":{
-                      "flag":[
-                      "qiyi","youku","mgtv","qq","sohu","bilibili","xigua","1905"
-                      ]
-                      }
+            "name": "虾米",
+            "type":1,
+            "url":"https://jx.xmflv.com/?url="
+        },
+        {
+            "name":"leduo",
+            "type":1,
+            "url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=",
+            "ext":{"flag":["leduo"]}
+        },
+        {
+            "name":"renrenmi2",
+            "type":1,
+            "url":"https://a.dxzj88.com/jxrrm/jiami.php?url=",
+            "ext":{"flag":["renrenmi"]}
         },
         {
             "name":"renrenmi3",
             "type":1,
             "url":"https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
-            "ext":{
-                     "flag":[
-                     "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","芒果","mgtv","xigua","wuduzy","bilibili","pptv","leduo","Clk4","哔哩","renrenmi","ltnb","rx"
-                     ]
-                     }
-        },
+            "ext":{"flag":["renrenmi"]}
+        }, 
         {
-            "name": "01",
+            "name": "网络搜索01",
             "type": 1,
             "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
             "ext": {
@@ -493,6 +484,23 @@
                     "renrenmi",
                     "优酷",
                     "芒果"
+                ]
+            }
+        },
+        {
+            "name":"网络搜索09",
+            "type":1,
+            "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+            "ext":{
+                "flag":[
+                    "qiyi",
+                    "youku",
+                    "mgtv",
+                    "qq",
+                    "sohu",
+                    "bilibili",
+                    "xigua",
+                    "1905"
                 ]
             }
         },
