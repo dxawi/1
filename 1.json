@@ -84,7 +84,7 @@
         },
         {
             "key":"多多",
-            "name": "多多(切片)",
+            "name": "多多",
             "type":1,
             "api":"https://a.7dyu.cn/api.php/provide/vod/from/ddzy/",
             "playUrl":"json:http://qiqi.520say.cn/json/dd.php?url=",
