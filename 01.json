@@ -339,11 +339,6 @@
                        }
         },
         {
-              "name":"fq",
-              "type":1,
-              "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
-        },
-        {
                "name":"龙虾",
                "type":1,
                "url":"http://106.55.234.91:4433/?url=",
