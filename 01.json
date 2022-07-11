@@ -1,5 +1,7 @@
 
 {
+    "spider": "https://kvymin.github.io/CatVod/jar/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26",
+    
     "sites": [     
         {
             "key": "csp_77",
@@ -734,6 +736,4 @@
         "cms.qdwght.com"
     ],
     
-    "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://kvymin.github.io/CatVod/jar/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
-     }
+}
