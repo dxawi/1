@@ -411,6 +411,11 @@
             "ext":{"flag":["renrenmi"]}
         }, 
         {
+            "name":"fq",
+            "type":1,
+            "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
+        },
+        {
             "name": "网络搜索01",
             "type": 1,
             "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
