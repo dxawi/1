@@ -2,8 +2,17 @@
 {
     "sites": [     
         {
+            "key": "csp_77",
+            "name": "七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },      
+        {
             "key": "csp_Cokemv",
-            "name": "Cokemv(SP)",
+            "name": "Cokemv",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -12,7 +21,7 @@
         },  
         {
             "key":"Lib",
-            "name":"Libvio(SP)",
+            "name": "Libvio",
             "type":3,
             "api":"csp_Lib",
             "searchable":1,
@@ -21,7 +30,7 @@
         },
         {
             "key":"小苹果",
-            "name":"小苹果(SP)",
+            "name": "小苹果",
             "type":3,
             "api":"csp_LiteApple",
             "searchable":1,
@@ -29,17 +38,8 @@
             "filterable":1
         },
         {
-            "key": "csp_77",
-            "name": "酷云七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },      
-        {
             "key": "csp_IKan",
-            "name": "爱看影视(SP)",
+            "name": "爱看",
             "type": 3,
             "api": "csp_IKan",
             "quickSearch": 1,
@@ -48,7 +48,7 @@
         },
         {
             "key":"厂长影视",
-            "name":"厂长影视(SP)",
+            "name": "厂长影视",
             "type":3,
             "api":"csp_Czsapp",
             "searchable":1,
@@ -57,7 +57,7 @@
         },
         {
             "key":"Auete",
-            "name":"Auete(SP)",
+            "name": "Auete",
             "type":3,
             "api":"csp_Auete",
             "searchable":1,
@@ -74,17 +74,18 @@
             "filterable": 1
         },
         {
-            "key": "Nfyun",
-            "name": "Nf云",
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
             "type": 3,
-            "api": "csp_Nfyun",
+            "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0,
+            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪影视(XB)",
+            "name": "乐猪(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -111,16 +112,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
         {
             "key": "剧白白",
@@ -183,6 +174,16 @@
             "ext":"https://dxawi.github.io/6/dm84.json"
         },    
         {
+            "key": "csp_xpath_网络搜集库huaya",
+            "name": "虎牙(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
+        },                
+        {
             "key": "Bili",
             "name": "B站",
             "type": 3,
@@ -204,7 +205,7 @@
         },
         {
             "key":"AliPS",
-            "name":"盘搜",
+            "name": "盘搜",
             "type":3,
             "api":"csp_AliPS",
             "searchable":1,
