@@ -29,6 +29,15 @@
             "filterable":1
         },
         {
+            "key":"Lib",
+            "name":"Libvio",
+            "type":3,
+            "api":"csp_Lib",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"小苹果",
             "name": "小苹果",
             "type":3,
