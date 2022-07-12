@@ -155,16 +155,6 @@
             "ext": "https://dxawi.github.io/6/jbb.json"
         },    
         {
-             "key":"csp_biubiu_555电影",
-             "name":"555电影(XB)",
-             "type":3,
-             "api":"csp_XBiubiu",
-             "searchable":1,
-             "quickSearch":1,
-             "filterable":0,
-             "ext":"https://kvymin.github.io/CatVod/XBiubiu/555电影.json"
-        },
-        {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
             "type":3,
