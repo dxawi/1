@@ -115,6 +115,16 @@
             "ext": "https://dxawi.github.io/6/kdyy.json"
         },
         {
+            "key": "csp_biubiu_555电影",
+            "name": "555电影(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://home.jundie.top:81/ray/json/555dy.json"
+        },
+        {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光影院(XB)",
             "type": 3,
