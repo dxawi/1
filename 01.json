@@ -55,6 +55,7 @@
             "searchable": 1,
             "filterable": 1
         },
+        {"key": "csp_Bttoo"      ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key":"360",
             "name": "360",
@@ -104,6 +105,8 @@
             "filterable": 0,
             "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
         },
+        {"key":"csp_xpath_libv","name":"🦋LIBVIO","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxawi.github.io/6/libv.json"},
+        {"key":"csp_biubiu_LIBVIO","name":"🐛LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dxawi.github.io/6/LIBVIO.json"},
         {
             "key":"csp_biubiu_真不卡cerrd",
             "name": "真不卡(XB)",
