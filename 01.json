@@ -72,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/lzys.json"
+            "ext": "https://dxawi.github.io/6/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
+            "ext": "https://dxawi.github.io/6/ysgc.json"
         },      
         {
             "key": "美剧虫",
@@ -112,7 +112,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
+            "ext": "https://dxawi.github.io/6/kdyy.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -122,7 +122,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
+            "ext": "https://dxawi.github.io/6/lgyy.json"
         },
         {
             "key":"csp_XBiubiubiubiu_lmys",
@@ -132,7 +132,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/lmys.json"
+            "ext":"https://dxawi.github.io/6/lmys.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -142,7 +142,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://home.jundie.top:81/ray/json/libv.json"
+            "ext":"https://dxawi.github.io/6/libv.json"
         },
         {
             "key": "剧白白",
@@ -152,7 +152,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
+            "ext": "https://dxawi.github.io/6/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -162,7 +162,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/dm84.json"
+            "ext":"https://dxawi.github.io/6/dm84.json"
         },    
         {
             "key":"csp_biubiu_爱港剧",
@@ -172,7 +172,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/agj.json"
+            "ext":"https://dxawi.github.io/6/agj.json"
         },    
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -182,7 +182,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/zbk1.json"
+            "ext":"https://dxawi.github.io/6/zbk1.json"
         },   
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -192,7 +192,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/coke.json"
+            "ext": "https://dxawi.github.io/6/coke.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -202,7 +202,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/libv1.json"
+            "ext":"https://dxawi.github.io/6/libv1.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -212,7 +212,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"http://home.jundie.top:81/ray/json/lztv.json"
+            "ext":"https://dxawi.github.io/6/lztv.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -222,7 +222,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://home.jundie.top:81/ray/json/huya.json"
+            "ext": "https://dxawi.github.io/6/huya.json"
         },
         {
             "key": "Bili",
@@ -232,7 +232,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        	"ext": "http://home.jundie.top:81/ray/json/bili.json"
+        	"ext": "https://dxawi.github.io/6/bili.json"
         },
         {
             "key": "Gitcafe",
