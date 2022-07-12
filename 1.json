@@ -72,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lzys.json"
+            "ext": "http://home.jundie.top:81/ray/json/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/ysgc.json"
+            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
         },      
         {
             "key": "美剧虫",
@@ -112,17 +112,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
-        },
-        {
-            "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/6/libv.json"
+            "ext": "http://home.jundie.top:81/ray/json/kdys.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -132,28 +122,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/LIBVIO.json"
+            "ext":"http://home.jundie.top:81/ray/json/libv1json"
         },
-        {
-            "key":"csp_biubiu_真不卡cerrd",
-            "name": "真不卡(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/zbk1.json"
-        },   
-        {
-            "key": "剧白白",
-            "name": "剧白白(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/6/jbb.json"
-        },    
         {
             "key":"csp_biubiu_爱港剧",
             "name": "爱港剧(XB)",
@@ -162,7 +132,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/agj.json"
+            "ext":"http://home.jundie.top:81/ray/json/agj.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -172,7 +142,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lgyy.json"
+            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
         },
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -182,8 +152,28 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/zbk.json"
+            "ext":"http://home.jundie.top:81/ray/json/zbk.json"
         },   
+        {
+            "key": "剧白白",
+            "name": "剧白白(XPF)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
+        },    
+        {
+            "key":"csp_xpath_libv",
+            "name":"LIBVIO(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://home.jundie.top:81/ray/json/libv.json"
+        },
         {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XPM)",
@@ -192,7 +182,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lztv.json"
+            "ext":"http://home.jundie.top:81/ray/json/lztv.json"
         },
         {
             "key":"csp_xpath_dm84",
@@ -202,7 +192,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
+            "ext":"http://home.jundie.top:81/ray/json/dm84.json"
         },    
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -212,7 +202,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
+            "ext": "http://home.jundie.top:81/ray/json/huya.json"
         },                
         {
             "key": "Bili",
@@ -222,7 +212,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"
+        	"ext": "http://home.jundie.top:81/ray/json/bili.json"
         },
         {
             "key": "Gitcafe",
