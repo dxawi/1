@@ -135,16 +135,6 @@
             "ext":"http://home.jundie.top:81/ray/json/lmys.json"
         },
         {
-            "key": "csp_biubiu_大米星球",
-            "name": "大米星球(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/dmxq.json"
-        },
-        {
             "key":"csp_xpath_libv",
             "name":"LIBVIO(XPF)",
             "type":3,
