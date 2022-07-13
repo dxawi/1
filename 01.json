@@ -81,7 +81,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lzys.json"
+            "ext": "http://home.jundie.top:81/ray/json/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -91,7 +91,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/ysgc.json"
+            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
         },      
         {
             "key": "美剧虫",
@@ -121,7 +121,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/kdyy.json"
+            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -141,7 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lgyy.json"
+            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
         },
         {
             "key":"csp_XBiubiubiubiu_lmys",
@@ -151,7 +151,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lmys.json"
+            "ext":"http://home.jundie.top:81/ray/json/lmys.json"
         },
         {
             "key": "剧白白",
@@ -161,7 +161,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/jbb.json"
+            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -171,7 +171,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
+            "ext":"http://home.jundie.top:81/ray/json/dm84.json"
         },    
         {
             "key":"csp_biubiu_爱港剧",
@@ -181,7 +181,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/agj.json"
+            "ext":"http://home.jundie.top:81/ray/json/agj.json"
         },    
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -191,7 +191,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/zbk1.json"
+            "ext":"http://home.jundie.top:81/ray/json/zbk.json"
         },   
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -201,7 +201,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/coke.json"
+            "ext": "http://home.jundie.top:81/ray/json/coke.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -211,7 +211,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv.json"
+            "ext":"http://home.jundie.top:81/ray/json/libv.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -221,7 +221,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lztv.json"
+            "ext":"http://home.jundie.top:81/ray/json/lztv.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -231,7 +231,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/huya.json"
+            "ext": "http://home.jundie.top:81/ray/json/huya.json"
         },
         {
             "key": "Bili",
@@ -241,7 +241,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        	"ext": "https://dxawi.github.io/6/bili.json"
+        	"ext": "http://home.jundie.top:81/ray/json/bili.json"
         },
         {
             "key": "Gitcafe",
@@ -356,24 +356,37 @@
     "type": 1,
     "url": "https://jx.xmflv.com/?url="
     },
-        {
-    "name": "293",
-    "type": 1,
-    "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-    "ext": {
-        "flag": [
-            "qq",
-            "qiyi",
-            "mgtv",
-            "youku",
-            "letv",
-            "sohu",
-            "xigua",
-            "1905"
-        ],
-        "header": {
-            "User-Agent": "Dart/2.14 (dart:io)"
-        }
+      {
+      "name":"293",
+      "type":1,
+      "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+      "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]
+            }
+    },
+    {
+      "name": "喵派4",
+      "type": 0,
+      "url": "https://www.iqiyi.one/dmplay/?url=",
+      "ext": {
+         "flag": ["ltnb","renrenmi","miaoparty","miaoparty2","miaoparty3","rx","rongxing","xueren","xfy"]
+      }
+    },
+    {
+      "name":"16",
+      "type":1,
+      "url":"https://jhjx.kuanjv.com/newky/?url="
+    },
+    {
+      "name":"21",
+      "type":0,
+      "url":"https://okjx.cc/?url="
+    },
+    {
+      "name": "2",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+      "ext": {
+        "flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]
       }
     },
     {
