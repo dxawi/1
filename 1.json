@@ -141,7 +141,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv1json"
+            "ext":"https://dxawi.github.io/6/libv.json"
         },
         {
             "key":"csp_biubiu_爱港剧",
@@ -183,16 +183,6 @@
             "filterable": 1,
             "ext": "https://dxawi.github.io/6/jbb.json"
         },    
-        {
-            "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/6/libv.json"
-        },
         {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XPM)",
