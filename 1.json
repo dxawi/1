@@ -304,7 +304,7 @@
       "name":"293",
       "type":1,
       "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-      "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
+      "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]
             }
     },
     {
@@ -312,7 +312,7 @@
       "type": 0,
       "url": "https://www.iqiyi.one/dmplay/?url=",
       "ext": {
-         "flag": ["ltnb","renrenmi","miaoparty","miaoparty2","miaoparty3","rx","rongxing","xueren","xfy"],
+         "flag": ["ltnb","renrenmi","miaoparty","miaoparty2","miaoparty3","rx","rongxing","xueren","xfy"]
       }
     },
     {
@@ -330,7 +330,7 @@
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
       "ext": {
-        "flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
+        "flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]
       }
     },
         {
