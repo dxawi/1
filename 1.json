@@ -114,16 +114,6 @@
              "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
         },
         {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/kdys.json"
-        },
-        {
             "key": "csp_biubiu_555电影",
             "name": "555电影(XB)",
             "type": 3,
