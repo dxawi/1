@@ -154,16 +154,6 @@
             "ext":"https://dxawi.github.io/6/lmys.json"
         },
         {
-            "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://dxawi.github.io/6/libv.json"
-        },
-        {
             "key": "剧白白",
             "name": "剧白白(XPF)",
             "type": 3,
@@ -205,7 +195,7 @@
         },   
         {
             "key": "csp_XBiubiubiubiu_cokemv",
-            "name": "cokemv(XB)",
+            "name": "Cokemv(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -221,7 +211,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv1.json"
+            "ext":"https://dxawi.github.io/6/libv.json"
         },
         {
             "key":"csp_xpath_lezhutv",
