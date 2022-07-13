@@ -300,24 +300,37 @@
     "type": 1,
     "url": "https://jx.xmflv.com/?url="
     },
-        {
-    "name": "293",
-    "type": 1,
-    "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-    "ext": {
-        "flag": [
-            "qq",
-            "qiyi",
-            "mgtv",
-            "youku",
-            "letv",
-            "sohu",
-            "xigua",
-            "1905"
-        ],
-        "header": {
-            "User-Agent": "Dart/2.14 (dart:io)"
-        }
+    {
+      "name":"293",
+      "type":1,
+      "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+      "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
+            }
+    },
+    {
+      "name": "喵派4",
+      "type": 0,
+      "url": "https://www.iqiyi.one/dmplay/?url=",
+      "ext": {
+         "flag": ["ltnb","renrenmi","miaoparty","miaoparty2","miaoparty3","rx","rongxing","xueren","xfy"],
+      }
+    },
+    {
+      "name":"16",
+      "type":1,
+      "url":"https://jhjx.kuanjv.com/newky/?url="
+    },
+    {
+      "name":"21",
+      "type":0,
+      "url":"https://okjx.cc/?url="
+    },
+    {
+      "name": "2",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+      "ext": {
+        "flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],
       }
     },
         {
