@@ -55,15 +55,15 @@
             "searchable": 1,
             "filterable": 1
         },
-        {
-            "key": "zxzj",
-            "name": "在线之家",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        //{
+           // "key": "zxzj",
+            //"name": "在线之家",
+          //  "type": 3,
+           // "api": "csp_Zxzj",
+         //   "searchable": 1,
+           // "quickSearch": 1,
+          //  "filterable": 1
+       // },
         {
             "key":"360",
             "name": "360",
@@ -82,6 +82,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://home.jundie.top:81/ray/json/lzys.json"
+        },
+        {
+            "key": "csp_biubiu_在线之家",
+            "name": "在线之家(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://home.jundie.top:81/ray/json/zxzj.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
