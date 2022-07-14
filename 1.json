@@ -73,7 +73,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/zxzj.json"
+            "ext": "https://github.com/dxawi/6/zxzj.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -113,7 +113,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/555dy.json"
+            "ext": "https://github.com/dxawi/6/555dy.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -637,6 +637,6 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "http://home.jundie.top:81/ray/cs.jar"
-    //"spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
+    //"spider": "http://home.jundie.top:81/ray/cs.jar"
+    "spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
 }
