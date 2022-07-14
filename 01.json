@@ -81,7 +81,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/lzys.json"
+            "ext": "https://dxawi.github.io/6/lzys.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -91,7 +91,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/zxzj.json"
+            "ext": "https://dxawi.github.io/6/zxzj.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -101,7 +101,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/ysgc.json"
+            "ext": "https://dxawi.github.io/6/ysgc.json"
         },      
         {
             "key": "美剧虫",
@@ -131,7 +131,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/555dy.json"
+            "ext": "https://dxawi.github.io/6/555dy.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -141,7 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/lgyy.json"
+            "ext": "https://dxawi.github.io/6/lgyy.json"
         },
         {
             "key": "剧白白",
@@ -151,7 +151,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.com/dxawi/6/jbb.json"
+            "ext": "https://dxawi.github.io/6/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -161,7 +161,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/dxawi/6/dm84.json"
+            "ext":"https://dxawi.github.io/6/dm84.json"
         },    
         {
             "key":"csp_biubiu_爱港剧",
@@ -171,7 +171,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/dxawi/6/agj.json"
+            "ext":"https://dxawi.github.io/6/agj.json"
         },    
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -181,7 +181,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/dxawi/6/zbk.json"
+            "ext":"https://dxawi.github.io/6/zbk.json"
         },   
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -191,7 +191,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.com/dxawi/6/coke.json"
+            "ext": "https://dxawi.github.io/6/coke.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -201,7 +201,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/dxawi/6/libv.json"
+            "ext":"https://dxawi.github.io/6/libv.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -211,7 +211,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://github.com/dxawi/6/lztv.json"
+            "ext":"https://dxawi.github.io/6/lztv.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -221,7 +221,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://github.com/dxawi/6/huya.json"
+            "ext": "https://dxawi.github.io/6/huya.json"
         },
         {
             "key": "Bili",
@@ -231,7 +231,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        	"ext": "https://github.com/dxawi/6/bili.json"
+        	"ext": "https://dxawi.github.io/6/bili.json"
         },
         {
             "key": "Gitcafe",
