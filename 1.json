@@ -29,15 +29,6 @@
             "filterable":1
         },
         {
-            "key": "csp_IKan",
-            "name": "爱看",
-            "type": 3,
-            "api": "csp_IKan",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
             "key":"厂长影视",
             "name": "厂长影视",
             "type":3,
