@@ -28,7 +28,24 @@
             "quickSearch":1,
             "filterable":1
         },
-        
+        {
+            "key":"csp_Auete",
+            "name": "Auete",
+            "type":3,
+            "api":"csp_Auete",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },  
+        {
+            "key":"csp_Nbys",
+            "name": "泥巴(需翻墙)",
+            "type":3,
+            "api":"csp_Nbys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
         {
             "key": "csp_Cokemv",
             "name": "Cokemv",
@@ -123,21 +140,81 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/555dy.json"
+            "ext": "https://dxawi.github.io/6/555b.json"
         },
         {
-            "key": "csp_biubiu_蓝光影院",
-            "name": "蓝光影院(XB)",
+            "key":"csp_biubiu_libv",
+            "name": "LIBVIO(XB)",
+            "type":3,
+            "api": "csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/libv.json"
+        },
+        {
+            "key": "csp_biubiu_在线之家",
+            "name": "在线之家(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
+            "ext": "https://dxawi.github.io/6/zxzj.json"
+        },
+        {
+            "key":"csp_biubiu_瓜皮TV",
+            "name": "瓜皮TV(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
+        },
+        {
+            "key":"csp_xpath_bttoo",
+            "name": "两个变态(XP)",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "https://gitea.com/dxa/6/raw/branch/main/bttop.json"
+        },
+        {
+            "key":"csp_xpath_cokemv",
+            "name": "Cokemv(XPF)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
+        },
+        {
+            "key":"csp_xpath_ddg",
+            "name": "达达龟(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
+        },
+        {
+            "key":"csp_xpath_zxzj",
+            "name": "在线之家(XPF)",
+            "type":3,
+            "api":"csp_XPathFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
         },
         {
             "key":"csp_xpath_libv",
-            "name":"LIBVIO(XPF)",
+            "name": "LIBVIO(XPF)",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
@@ -165,6 +242,7 @@
             "filterable":0,
             "ext":"http://home.jundie.top:81/ray/json/dm84.json"
         },    
+       
         {
              "key":"csp_AliPanSou",
              "name": "盘搜",
@@ -579,5 +657,6 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/cs220711.jar"
+    "spider": "https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;79ee3cbb2c5bcbcac07e34458d555cf5"
+    //"spider": "https://gitea.com/dxa/1/raw/branch/main/qj0715.jar;md5;982b88f1556fe0698477711b64319287"
 }
