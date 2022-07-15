@@ -173,6 +173,16 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
+            "key":"csp_xpath_bttoo",
+            "name": "两个BT(XP)",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/bttop.json"
+        },
+        {
             "key":"csp_xpath_cokemv",
             "name": "Cokemv(XPF)",
             "type":3,
