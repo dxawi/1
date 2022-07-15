@@ -11,6 +11,25 @@
             "filterable": 1
         },      
         {
+            "key":"csp_CZSPP",
+            "name":"厂长",
+            "type":3,
+            "api":"csp_CZSPP",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"csp_Bttoo",
+            "name": "两个变态",
+            "type":3,
+            "api":"csp_Bttoo",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        
+        {
             "key": "csp_Cokemv",
             "name": "Cokemv",
             "type": 3,
@@ -18,16 +37,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },   
-        {
-            "key":"csp_CZSPP",
-            "name": "厂长",
-            "type":3,
-            "api":"csp_Czsapp",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0
-        },
+        },  
         {
             "key":"小苹果",
             "name": "小苹果",
@@ -38,19 +48,19 @@
             "filterable":1
         },
         {
-            "key":"csp_Auete",
-            "name": "Auete",
-            "type":3,
-            "api":"csp_Auete",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },  
+            "key": "csp_IKan",
+            "name": "爱看",
+            "type": 3,
+            "api": "csp_IKan",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1
+        },
         {
-            "key":"csp_Nbys",
-            "name": "泥巴(需翻墙)",
+            "key":"360",
+            "name": "360",
             "type":3,
-            "api":"csp_Nbys",
+            "api":"csp_SP360",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -83,7 +93,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lzys.json"
+            "ext": "http://home.jundie.top:81/ray/json/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -93,8 +103,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/ysgc.json"
+            "ext": "http://home.jundie.top:81/ray/json/ysgc.json"
         },      
+        {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://home.jundie.top:81/ray/json/kdyy.json"
+        },
         {
             "key": "csp_biubiu_555电影",
             "name": "555电影(XB)",
@@ -103,87 +123,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/555b.json"
+            "ext": "http://home.jundie.top:81/ray/json/555dy.json"
         },
         {
-            "key":"csp_biubiu_libv",
-            "name": "LIBVIO(XB)",
-            "type":3,
-            "api": "csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv.json"
-        },
-        {
-            "key": "csp_biubiu_在线之家",
-            "name": "在线之家(XB)",
+            "key": "csp_biubiu_蓝光影院",
+            "name": "蓝光影院(XB)",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/zxzj.json"
-        },
-        {
-            "key":"csp_biubiu_瓜皮TV",
-            "name": "瓜皮TV(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
-        },
-        {
-            "key":"csp_xpath_bttoo",
-            "name": "两个变态(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "https://gitea.com/dxa/6/raw/branch/main/bttop.json"
+            "ext": "http://home.jundie.top:81/ray/json/lgyy.json"
         },
         {
             "key":"csp_xpath_libv",
-            "name": "Libvio(XPF)",
+            "name":"LIBVIO(XPF)",
             "type":3,
             "api":"csp_XPathMacFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
-        },
-        {
-            "key":"csp_xpath_cokemv",
-            "name": "Cokemv(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
-        },
-        {
-            "key":"csp_xpath_ddg",
-            "name": "达达龟(XPF)",
-            "type":3,
-            "api":"csp_XPathMacFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
-        },
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
+            "ext":"http://home.jundie.top:81/ray/json/libv.json"
         },
         {
             "key": "剧白白",
@@ -193,7 +153,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/jbb.json"
+            "ext": "http://home.jundie.top:81/ray/json/jbb.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -203,46 +163,25 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
+            "ext":"http://home.jundie.top:81/ray/json/dm84.json"
         },    
         {
-            "key": "AliPS",
-            "name": "盘搜",
-            "type": 3,
-            "api": "csp_AliPanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+             "key":"csp_AliPanSou",
+             "name": "盘搜",
+             "type":3,
+             "api":"csp_AliPanSou",
+             "searchable":1,
+             "quickSearch":1,
+             "filterable":1
         },
         {
-            "key": "FindZY",
-            "name": "找资源",
-            "type": 3,
-            "api": "csp_FindZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "27b06d5221a24199b15f2e573d847430"
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条",
-            "type": 3,
-            "api": "csp_GitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "27b06d5221a24199b15f2e573d847430"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "27b06d5221a24199b15f2e573d847430"
+            "key":"push_agent",
+            "name":"推送",
+            "type":3,
+            "api":"csp_PushAgent",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0
         }
     ],
     
@@ -288,37 +227,24 @@
     "type": 1,
     "url": "https://jx.xmflv.com/?url="
     },
-      {
-      "name":"293",
-      "type":1,
-      "url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-      "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]
-            }
-    },
-    {
-      "name": "喵派4",
-      "type": 0,
-      "url": "https://www.iqiyi.one/dmplay/?url=",
-      "ext": {
-         "flag": ["ltnb","renrenmi","miaoparty","miaoparty2","miaoparty3","rx","rongxing","xueren","xfy"]
-      }
-    },
-    {
-      "name":"16",
-      "type":1,
-      "url":"https://jhjx.kuanjv.com/newky/?url="
-    },
-    {
-      "name":"21",
-      "type":0,
-      "url":"https://okjx.cc/?url="
-    },
-    {
-      "name": "2",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-      "ext": {
-        "flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]
+        {
+    "name": "293",
+    "type": 1,
+    "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "qiyi",
+            "mgtv",
+            "youku",
+            "letv",
+            "sohu",
+            "xigua",
+            "1905"
+        ],
+        "header": {
+            "User-Agent": "Dart/2.14 (dart:io)"
+        }
       }
     },
         {
@@ -653,6 +579,5 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    //"spider":"https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;79ee3cbb2c5bcbcac07e34458d555cf5"
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/qj0715.jar;md5;982b88f1556fe0698477711b64319287"
+    "spider": "https://gitea.com/dxa/1/raw/branch/main/cs220711.jar"
 }
