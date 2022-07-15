@@ -290,7 +290,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "https://gitea.com/dxa/6/raw/branch/main/bttop.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/bttop.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -310,7 +310,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-        	"ext": "https://gitea.com/dxa/6/raw/branch/main/bili.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/bili.json"
         },
         {
             "key": "Gitcafe",
