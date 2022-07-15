@@ -12,22 +12,22 @@
         },      
         {
             "key":"csp_CZSPP",
-            "name":"厂长",
+            "name":"厂长影视",
             "type":3,
-            "api":"csp_CZSPP",
+            "api":"csp_CZSAPP",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
         },
-        {
-            "key":"csp_Bttoo",
-            "name": "两个变态",
-            "type":3,
-            "api":"csp_Bttoo",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
+        //{
+        //    "key":"csp_Bttoo",
+        //    "name": "两个变态",
+        //    "type":3,
+        //    "api":"csp_Bttoo",
+        //    "searchable":1,
+        //    "quickSearch":1,
+        //    "filterable":1
+        //},
         {
             "key":"csp_Auete",
             "name": "Auete",
