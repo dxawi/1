@@ -233,6 +233,26 @@
             "ext":"http://home.jundie.top:81/ray/json/dm84.json"
         },    
         {
+            "key": "FindZY",
+            "name": "找资源",
+            "type": 3,
+            "api": "csp_FindZY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "27b06d5221a24199b15f2e573d847430"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "小纸条",
+            "type": 3,
+            "api": "csp_GitCafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "27b06d5221a24199b15f2e573d847430"
+        },
+        {
              "key":"csp_AliPanSou",
              "name": "盘搜",
              "type":3,
@@ -646,5 +666,6 @@
     ],
     
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;79ee3cbb2c5bcbcac07e34458d555cf5"
+    "spider": "https://gitea.com/dxa/1/raw/branch/main/qj0715.jar;md5;982b88f1556fe0698477711b64319287"
+    //"spider": "https://gitea.com/dxa/1/raw/branch/main/cs220711.jar;md5;79ee3cbb2c5bcbcac07e34458d555cf5"
 }
