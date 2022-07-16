@@ -741,7 +741,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1080",
-       //"spider": "http://home.jundie.top:81/ray/cs.jar"
        "spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
     
 }
