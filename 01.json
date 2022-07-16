@@ -103,6 +103,16 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
         },
         {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
+        },
+        {
             "key": "csp_XBiubiubiubiu_ysgc",
             "name": "影视工厂(XB)",
             "type": 3,
