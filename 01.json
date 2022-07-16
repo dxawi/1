@@ -74,6 +74,15 @@
             "filterable": 1
         }, 
         {
+            "key": "Ikan",
+            "name": "Ikan",
+            "type": 3,
+            "api": "csp_IKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Nfyun",
             "name": "Nf云",
             "type": 3,
