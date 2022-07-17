@@ -357,7 +357,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"27b06d5221a24199b15f2e573d847430"
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
             "key": "Gitcafe",
@@ -367,7 +367,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"27b06d5221a24199b15f2e573d847430"
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
             "key":"AliPS",
@@ -377,7 +377,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"27b06d5221a24199b15f2e573d847430"
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
             "key":"push_agent",
@@ -387,7 +387,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"27b06d5221a24199b15f2e573d847430"
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         }
     ],
        "lives":[
