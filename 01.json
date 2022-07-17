@@ -64,24 +64,24 @@
             "quickSearch":1,
             "filterable":1
         },
-        {
-            "key": "Kuaikan",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-        {
-            "key": "Ikan",
-            "name": "Ikan",
-            "type": 3,
-            "api": "csp_IKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        //{
+        //    "key": "Kuaikan",
+        //    "name": "快看",
+        //    "type": 3,
+        //    "api": "csp_Kuaikan",
+        //    "searchable": 1,
+        //    "quickSearch": 1,
+        //    "filterable": 1
+        //}, 
+        //{
+        //    "key": "Ikan",
+        //    "name": "Ikan",
+        //    "type": 3,
+        //    "api": "csp_IKan",
+        //    "searchable": 1,
+        //    "quickSearch": 1,
+        //    "filterable": 1
+        //},
         {
             "key": "Nfyun",
             "name": "Nf云",
@@ -349,16 +349,16 @@
             "filterable":0,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/dm84.json"
         },    
-        {
-            "key":"csp_xpath_bttoo",
-            "name": "两个变态(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/bttop.json"
-        },
+        //{
+        //    "key":"csp_xpath_bttoo",
+        //    "name": "两个变态(XP)",
+        //    "type":3,
+        //    "api":"csp_XPath",
+        //    "searchable":0,
+        //    "quickSearch":0,
+        //    "filterable":0,
+        //    "ext":"https://gitea.com/dxa/6/raw/branch/main/bttop.json"
+        //},
         {
             "key": "csp_xpath_网络搜集库huaya",
             "name": "虎牙(XP)",
