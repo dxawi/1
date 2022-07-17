@@ -110,6 +110,36 @@
             "filterable":1
         }, 
         {
+            "key": "zhaozy",
+            "name": "找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+        },
+        {
+            "key": "Gitcafe",
+            "name": "小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+        },
+        {
+            "key":"AliPS",
+            "name":"盘搜",
+            "type":3,
+            "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+        },
+        {
             "key":"csp_biubiu_瓜皮TV",
             "name": "瓜皮TV(XB)",
             "type":3,
@@ -350,36 +380,6 @@
             "ext": "https://gitea.com/dxa/6/raw/branch/main/bili.json"
         }, 
         {
-            "key": "zhaozy",
-            "name": "找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
-        },
-        {
-            "key": "Gitcafe",
-            "name": "小纸条",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
-        },
-        {
-            "key":"AliPS",
-            "name":"盘搜",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
-        },
-        {
             "key":"push_agent",
             "name":"推送",
             "type":3,
@@ -393,7 +393,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZHhhLzEvcmF3L2JyYW5jaC9tYWluL3R2bGl2ZS50eHQ="
     ]}]}],
    "flags": [
         "youku",
