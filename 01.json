@@ -3,7 +3,7 @@
     "sites": [     
         {
             "key": "csp_77",
-            "name": "七七",
+            "name": "七七(爬虫)",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -12,7 +12,7 @@
         },
         {
             "key":"厂长影视",
-            "name": "厂长影视",
+            "name": "厂长影视(爬虫)",
             "type":3,
             "api":"csp_Czsapp",
             "searchable":1,
@@ -21,7 +21,7 @@
         },
         {
             "key": "zxzj",
-            "name": "在线之家",
+            "name": "在线之家(爬虫)",
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
@@ -30,7 +30,7 @@
         },
         {
             "key":"小苹果",
-            "name": "小苹果",
+            "name": "小苹果(爬虫)",
             "type":3,
             "api":"csp_LiteApple",
             "searchable":1,
@@ -39,7 +39,7 @@
         },
         {
             "key": "小熊",
-            "name": "小熊TV",
+            "name": "小熊TV(爬虫)",
             "type": 3,
             "api": "csp_Xxys",
             "searchable": 1,
@@ -48,7 +48,7 @@
         },
         {
             "key": "csp_Cokemv",
-            "name": "Cokemv",
+            "name": "Cokemv(爬虫)",
             "type": 3,
             "api": "csp_Cokemv",
             "searchable": 1,
@@ -57,7 +57,7 @@
         },   
         {
             "key":"csp_Auete",
-            "name": "Auete",
+            "name": "Auete(爬虫)",
             "type":3,
             "api":"csp_Auete",
             "searchable":1,
@@ -66,7 +66,7 @@
         },  
         {
             "key":"Lib",
-            "name":"Libvio",
+            "name":"Libvio(爬虫)",
             "type":3,
             "api":"csp_Lib",
             "searchable":1,
@@ -75,7 +75,7 @@
         },
         {
             "key": "Ikan",
-            "name": "Ikan",
+            "name": "Ikan(爬虫)",
             "type": 3,
             "api": "csp_IKan",
             "searchable": 1,
@@ -84,7 +84,7 @@
         },
         {
             "key": "Nfyun",
-            "name": "Nfyun",
+            "name": "Nfyun(爬虫)",
             "type": 3,
             "api": "csp_Nfyun",
             "searchable": 1,
@@ -102,7 +102,7 @@
         },
         {
             "key":"360",
-            "name": "360",
+            "name": "360(爬虫)",
             "type":3,
             "api":"csp_SP360",
             "searchable":1,
@@ -121,7 +121,7 @@
         },
         {
             "key": "zhaozy",
-            "name": "找资源",
+            "name": "找资源(仅搜索)",
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
@@ -131,23 +131,13 @@
         },
         {
             "key":"AliPS",
-            "name":"盘搜",
+            "name":"盘搜(仅搜索)",
             "type":3,
             "api":"csp_AliPS",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
             "ext": "ad3c78559a494bde814f1a6c8c40db51"
-        },
-        {
-            "key":"csp_biubiu_瓜皮TV",
-            "name": "瓜皮TV(XB)",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
@@ -178,6 +168,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/555dy.json"
+        },
+        {
+            "key":"csp_biubiu_瓜皮TV",
+            "name": "瓜皮TV(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
