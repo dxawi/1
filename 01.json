@@ -220,6 +220,26 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
         },   
         {
+            "key":"csp_biubiu_剧白白-蓝光",
+            "name":"剧白白(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/jbb.json"
+        },
+        {
+            "key":"csp_biubiu_达达龟",
+            "name":"达达龟(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/ddg.json"
+        },
+        {
             "key": "csp_biubiu_在线之家",
             "name": "在线之家(XB)",
             "type": 3,
@@ -360,6 +380,16 @@
         //    "ext":"https://gitea.com/dxa/6/raw/branch/main/bttop.json"
         //},
         {
+            "key": "csp_xpath_网络搜集库qiumi",
+            "name":"球迷看球(XPF)️️️",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/6/qm.json"
+        },
+        {
             "key": "csp_xpath_网络搜集库huaya",
             "name": "虎牙(XP)",
             "type": 3,
@@ -447,6 +477,8 @@
     "type": 1,
     "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
     },
+    {"name":"江湖","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
+    {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
     {
     "name": "2",
     "type": 1,
