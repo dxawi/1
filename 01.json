@@ -9,33 +9,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },  
-        {
-            "key": "csp_Cokemv",
-            "name": "Cokemv",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },   
-        {
-            "key":"csp_Auete",
-            "name": "Auete",
-            "type":3,
-            "api":"csp_Auete",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },  
-        {
-            "key":"Lib",
-            "name":"Libvio",
-            "type":3,
-            "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"厂长影视",
@@ -64,6 +37,33 @@
             "quickSearch":1,
             "filterable":1
         },
+        {
+            "key": "csp_Cokemv",
+            "name": "Cokemv",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },   
+        {
+            "key":"csp_Auete",
+            "name": "Auete",
+            "type":3,
+            "api":"csp_Auete",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },  
+        {
+            "key":"Lib",
+            "name":"Libvio",
+            "type":3,
+            "api":"csp_Lib",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
         //{
         //    "key": "Ikan",
         //    "name": "Ikan",
@@ -75,7 +75,7 @@
         //},
         {
             "key": "Nfyun",
-            "name": "Nf云",
+            "name": "Nfyun",
             "type": 3,
             "api": "csp_Nfyun",
             "searchable": 1,
@@ -99,22 +99,22 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        }, 
-        {
-            "key": "zhaozy",
-            "name": "找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
             "key": "Gitcafe",
             "name": "小纸条",
             "type": 3,
             "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "ad3c78559a494bde814f1a6c8c40db51"
+        },
+        {
+            "key": "zhaozy",
+            "name": "找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -211,7 +211,7 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
         },   
         {
-            "key":"csp_biubiu_剧白白-蓝光",
+            "key":"csp_biubiu_剧白白",
             "name":"剧白白(XB)",
             "type":3,
             "api":"csp_XBiubiu",
@@ -231,6 +231,16 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
         },
         {
+            "key": "csp_biubiu_厂长资源",
+            "name": "厂长资源(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/czzy.json"
+        },
+        {
             "key": "csp_biubiu_在线之家",
             "name": "在线之家(XB)",
             "type": 3,
@@ -239,16 +249,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
-        },
-        {
-            "key": "csp_biubiu_厂长资源",
-            "name": "厂长资源(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/1/raw/branch/main/xb/a01-czzy.js"
         },
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -291,14 +291,14 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/lztv.json"
         },
         {
-            "key":"csp_xpath_libv",
-            "name": "Libvio(XPF)",
+            "key":"csp_xpath_zxzj",
+            "name": "在线之家(XPF)",
             "type":3,
-            "api":"csp_XPathMacFilter",
+            "api":"csp_XPathFilter",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
         },
         {
             "key":"csp_xpath_cokemv",
@@ -311,6 +311,16 @@
             "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
         },
         {
+            "key":"csp_xpath_libv",
+            "name": "Libvio(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
+        },
+        {
             "key":"csp_xpath_ddg",
             "name": "达达龟(XPF)",
             "type":3,
@@ -319,16 +329,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
-        },
-        {
-            "key":"csp_xpath_zxzj",
-            "name": "在线之家(XPF)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
         },
         {
             "key": "剧白白",
