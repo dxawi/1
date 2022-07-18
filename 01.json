@@ -65,15 +65,6 @@
             "filterable":1
         },
         //{
-        //    "key": "Kuaikan",
-        //    "name": "快看",
-        //    "type": 3,
-        //    "api": "csp_Kuaikan",
-        //    "searchable": 1,
-        //    "quickSearch": 1,
-        //    "filterable": 1
-        //}, 
-        //{
         //    "key": "Ikan",
         //    "name": "Ikan",
         //    "type": 3,
@@ -290,16 +281,6 @@
             "ext": "https://meijuchong.com/api.php/v1.vod"
         },
         {
-             "key":"300看世界",
-             "name": "300看世界(v2)",
-             "type":3,
-             "api":"csp_AppYsV2",
-             "searchable":1,
-             "quickSearch":1,
-             "filterable":1,
-             "ext":"https://300ys.xyz/mogai_api.php/v1.vod"
-        },
-        {
             "key":"csp_xpath_lezhutv",
             "name": "乐猪TV(XPM)",
             "type":3,
@@ -478,7 +459,6 @@
     "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
     },
     {"name":"江湖","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
-    {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
     {
     "name": "2",
     "type": 1,
