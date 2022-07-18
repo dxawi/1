@@ -218,7 +218,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/jbb.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/jbb.json"
         },
         {
             "key":"csp_biubiu_达达龟",
@@ -228,7 +228,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/ddg.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -368,7 +368,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/qm.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/qm.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
