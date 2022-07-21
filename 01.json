@@ -37,15 +37,15 @@
             "quickSearch":1,
             "filterable":1
         },
-        {
-            "key": "小熊",
-            "name": "小熊TV(爬虫)",
-            "type": 3,
-            "api": "csp_Xxys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        //{
+        //    "key": "小熊",
+        //    "name": "小熊TV(爬虫)",
+        //    "type": 3,
+        //    "api": "csp_Xxys",
+        //    "searchable": 1,
+        //    "quickSearch": 1,
+        //    "filterable": 1
+        //},
         {
             "key": "csp_Cokemv",
             "name": "Cokemv(爬虫)",
@@ -82,15 +82,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "Nfyun",
-            "name": "Nfyun(爬虫)",
-            "type": 3,
-            "api": "csp_Nfyun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        //{
+        //    "key": "Nfyun",
+        //    "name": "Nfyun(爬虫)",
+        //    "type": 3,
+        //    "api": "csp_Nfyun",
+        //    "searchable": 1,
+        //    "quickSearch": 1,
+        //    "filterable": 1
+        //},
         {
             "key":"If101",
             "name": "If101(需翻墙)",
