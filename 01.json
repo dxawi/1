@@ -718,6 +718,6 @@
     ],
        "wallpaper": "https://picsum.photos/1080",
        //"spider": "https://gitea.com/dxa/1/raw/branch/main/custom_spider.jar;md5;6fa1249ae7beeb0222a05db1bc58fb26"
-       "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;22fcb4c30ade0861dea05cd265b6b233"
+       "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;c118f5509d115ad939d3b8da972f7127"
     
 }
