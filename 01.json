@@ -469,6 +469,16 @@
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
     },
     {
+      "name": "爱豆解析",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "冰豆解析",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
     "name":"parwix",
     "type":0,
     "url":"https://jx.parwix.com:4433/player/?url="
