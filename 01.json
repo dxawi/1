@@ -463,13 +463,33 @@
     "name":"Json轮询", "type":2, "url":"Sequence"
     },  
     {
-    "name": "2",
+    "name": "ceshi",
     "type": 1,
     "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
     },
     {
-    "name":"21",
+    "name":"parwix",
+    "type":0,
+    "url":"https://jx.parwix.com:4433/player/?url="
+    },
+    {
+    "name":"yemu",
+    "type":0,
+    "url":"https://www.yemu.xyz/?url="
+    },
+    {
+    "name":"nxflv",
+    "type":0,
+    "url":"https://www.nxflv.com/?url="
+    },
+    {
+    "name":"gai",
+    "type":0,
+    "url":"https://www.gai4.com/?url="
+    },
+    {
+    "name":"okjx",
     "type":0,
     "url":"https://okjx.cc/?url="
     }
