@@ -469,9 +469,9 @@
     "ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"]}
     },
     {
-    "name":"parwix",
-    "type":0,
-    "url":"https://jx.parwix.com:4433/player/?url="
+    "name":"fuqi",
+    "type":1,
+    "url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
     },
     {
     "name":"yemu",
@@ -487,6 +487,11 @@
     "name":"gai",
     "type":0,
     "url":"https://www.gai4.com/?url="
+    },
+    {
+    "name":"parwix",
+    "type":0,
+    "url":"https://jx.parwix.com:4433/player/?url="
     },
     {
     "name":"okjx",
