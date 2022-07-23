@@ -57,7 +57,7 @@
         },  
         {
             "key":"Lib",
-            "name":"Libvio(爬虫)",
+            "name": "Libvio(爬虫)",
             "type":3,
             "api":"csp_Lib",
             "searchable":1,
@@ -113,7 +113,7 @@
         },
         {
             "key":"AliPS",
-            "name":"盘搜(仅搜索)",
+            "name": "盘搜(仅搜索)",
             "type":3,
             "api":"csp_AliPS",
             "searchable":1,
@@ -253,7 +253,7 @@
         },
         {
             "key":"csp_biubiu_LIBVIO",
-            "name":"Libvio(XB)",
+            "name": "Libvio(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
@@ -343,7 +343,7 @@
         },    
         {
             "key": "csp_xpath_网络搜集库qiumi",
-            "name":"球迷看球(XPF)️️️",
+            "name": "球迷看球(XPF)️️️",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
@@ -373,7 +373,7 @@
         }, 
         {
             "key":"push_agent",
-            "name":"推送",
+            "name": "推送",
             "type":3,
             "api":"csp_PushAgent",
             "searchable":0,
