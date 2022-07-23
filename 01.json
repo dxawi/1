@@ -37,15 +37,6 @@
             "quickSearch":1,
             "filterable":1
         },
-        //{
-        //    "key": "小熊",
-        //    "name": "小熊TV(爬虫)",
-        //    "type": 3,
-        //    "api": "csp_Xxys",
-        //    "searchable": 1,
-        //    "quickSearch": 1,
-        //    "filterable": 1
-        //},
         {
             "key": "csp_Cokemv",
             "name": "Cokemv(爬虫)",
@@ -82,15 +73,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        //{
-        //    "key": "Nfyun",
-        //    "name": "Nfyun(爬虫)",
-        //    "type": 3,
-        //    "api": "csp_Nfyun",
-        //    "searchable": 1,
-        //    "quickSearch": 1,
-        //    "filterable": 1
-        //},
         {
             "key":"If101",
             "name": "If101(需翻墙)",
@@ -147,7 +129,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lzys.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -157,7 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/ysgc.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/ysgc.json"
         },        
         {
             "key": "csp_biubiu_555电影",
@@ -167,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/555dy.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/555dy.json"
         },
         {
             "key":"csp_biubiu_瓜皮TV",
@@ -177,7 +159,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/gptv.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/gptv.json"
         },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
@@ -187,7 +169,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/kdyy.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -197,7 +179,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lgyy.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/lgyy.json"
         },
         {
             "key":"csp_biubiu_爱港剧",
@@ -207,7 +189,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/agj.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/agj.json"
         },    
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -217,28 +199,28 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/zbk.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/zbk.json"
         },   
         {
             "key":"csp_biubiu_剧白白",
-            "name":"剧白白(XB)",
+            "name": "剧白白(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/jbb.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/jbb.json"
         },
-        //{
-        //    "key":"csp_biubiu_达达龟",
-        //    "name":"达达龟(XB)",
-        //    "type":3,
-        //    "api":"csp_XBiubiu",
-        //    "searchable":1,
-        //    "quickSearch":1,
-        //    "filterable":0,
-        //    "ext":"https://dxawi.github.io/6/ddg.json"
-        //},
+        {
+            "key":"csp_biubiu_达达龟",
+            "name": "达达龟(XB)",
+            "type":3,
+            "api":"csp_XBiubiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddg.json"
+        },
         {
             "key": "csp_biubiu_厂长资源",
             "name": "厂长资源(XB)",
@@ -247,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/czzy.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/czzy.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -257,7 +239,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/zxzj.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/zxzj.json"
         },
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -267,7 +249,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/coke.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/coke.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -277,7 +259,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/libv.json"
         },
         {
             "key": "美剧虫",
@@ -297,7 +279,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lztv.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/lztv.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -307,7 +289,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/zxzjp.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/zxzjp.json"
         },
         {
             "key":"csp_xpath_cokemv",
@@ -317,7 +299,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/cokep.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/cokep.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -327,18 +309,18 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/libvp.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/libvp.json"
         },
-        //{
-        //    "key":"csp_xpath_ddg",
-        //    "name": "达达龟(XPF)",
-        //    "type":3,
-        //    "api":"csp_XPathMacFilter",
-        //    "searchable":1,
-        //    "quickSearch":1,
-        //    "filterable":1,
-        //    "ext":"https://dxawi.github.io/6/ddgp.json"
-        //},
+        {
+            "key":"csp_xpath_ddg",
+            "name": "达达龟(XPF)",
+            "type":3,
+            "api":"csp_XPathMacFilter",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/ddgp.json"
+        },
         {
             "key": "剧白白",
             "name": "剧白白(XPF)",
@@ -347,7 +329,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/jbbp.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/jbbp.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -357,18 +339,8 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
+            "ext":"https://gitea.com/dxa/6/raw/branch/main/dm84.json"
         },    
-        //{
-        //    "key":"csp_xpath_bttoo",
-        //    "name": "两个变态(XP)",
-        //    "type":3,
-        //    "api":"csp_XPath",
-        //    "searchable":0,
-        //    "quickSearch":0,
-        //    "filterable":0,
-        //    "ext":"https://dxawi.github.io/6/bttop.json"
-        //},
         {
             "key": "csp_xpath_网络搜集库qiumi",
             "name":"球迷看球(XPF)️️️",
@@ -377,7 +349,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/qm.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/qm.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -387,7 +359,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/huya.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/huya.json"
         },
         {
             "key": "Bili",
@@ -397,7 +369,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/bili.json"
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/bili.json"
         }, 
         {
             "key":"push_agent",
@@ -711,6 +683,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1080",
-       //"spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;d579bd6161d5fc0390be133e394fcd58"
-       "spider": "https://dxawi.github.io/1/ts.jar;md5;d579bd6161d5fc0390be133e394fcd58"
+       "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;d579bd6161d5fc0390be133e394fcd58"
+       //"spider": "https://dxawi.github.io/1/ts.jar;md5;d579bd6161d5fc0390be133e394fcd58"
 }
