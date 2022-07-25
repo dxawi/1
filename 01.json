@@ -11,6 +11,15 @@
             "filterable": 1
         },
         {
+            "key":"csp_Kuaikan",
+            "name": "快看影视(爬虫)",
+            "type":3,
+            "api":"csp_Kuaikan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"厂长影视",
             "name": "厂长影视(爬虫)",
             "type":3,
@@ -417,6 +426,12 @@
     {   
     "name":"Json轮询", "type":2, "url":"Sequence"
     },  
+    {
+    "name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}
+    },
+    {
+    "name":"nxflv","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+    },
     {
     "name": "ceshi",
     "type": 1,
