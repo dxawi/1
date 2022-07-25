@@ -3,21 +3,12 @@
     "sites": [     
         {
             "key": "csp_77",
-            "name": "七七(爬虫)",
+            "name": "酷云七七(爬虫)",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key":"csp_Kuaikan",
-            "name": "快看影视(爬虫)",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"厂长影视",
