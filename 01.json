@@ -149,6 +149,16 @@
             "ext": "ad3c78559a494bde814f1a6c8c40db51"
         },
         {
+            "key": "csp_biubiu_蓝光影院",
+            "name": "蓝光影院(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/dxa/6/raw/branch/main/lgyy.json"
+        },
+        {
             "key": "csp_XBiubiubiubiu_lezhu",
             "name": "乐猪(XB)",
             "type": 3,
@@ -197,16 +207,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/kdyy.json"
-        },
-        {
-            "key": "csp_biubiu_蓝光影院",
-            "name": "蓝光影院(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/dxa/6/raw/branch/main/lgyy.json"
         },
         {
             "key":"csp_biubiu_爱港剧",
