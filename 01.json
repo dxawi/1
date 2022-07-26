@@ -11,6 +11,15 @@
             "filterable": 1
         },
         {
+            "key": "神马影院",
+            "name": "神马影院",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key":"厂长影视",
             "name": "厂长影视(爬虫)",
             "type":3,
@@ -69,6 +78,24 @@
             "name": "爱看(爬虫)",
             "type": 3,
             "api": "csp_IKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "小熊",
+            "name": "小熊TV",
+            "type": 3,
+            "api": "csp_Xxys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看",
+            "type": 3,
+            "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -672,6 +699,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;226db2fc833312b73b0bf57c7dd41484"
-       //"spider": "https://dxawi.github.io/1/ts.jar;md5;226db2fc833312b73b0bf57c7dd41484"
+       "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;b82bb46f98c468c3ba8b9257efe35abe"
+       //"spider": "https://dxawi.github.io/1/ts.jar;md5;b82bb46f98c468c3ba8b9257efe35abe"
 }
