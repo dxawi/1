@@ -92,6 +92,15 @@
             "filterable": 1
         },
         {
+            "key": "神马影院",
+            "name": "神马影院",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key":"If101",
             "name": "If101(需翻墙)",
             "type":3,
