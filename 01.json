@@ -11,15 +11,6 @@
             "filterable": 1
         },
         {
-            "key": "神马影院",
-            "name": "神马影院",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key":"厂长影视",
             "name": "厂长影视(爬虫)",
             "type":3,
