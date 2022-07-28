@@ -267,6 +267,8 @@ CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 凤凰资讯,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
 凤凰资讯,http://27.47.68.16:808/hls/33/index.m3u8
 TVB J2 HD,http://120.84.96.152:808/hls/86/index.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3?zgangd
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/2020215104547.m3u8?zgangd
 凤凰香港,http://183.207.249.34/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8?zgangd
