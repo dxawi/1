@@ -29,13 +29,13 @@
             "filterable": 1
         },
         {
-            "key":"小苹果",
-            "name": "小苹果(爬虫)",
-            "type":3,
-            "api":"csp_LiteApple",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "神马影院",
+            "name": "神马影院(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Cokemv",
@@ -45,7 +45,25 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },   
+        },
+        {
+            "key": "小熊",
+            "name": "小熊TV(爬虫)",
+            "type": 3,
+            "api": "csp_Xxys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key":"小苹果",
+            "name": "小苹果(爬虫)",
+            "type":3,
+            "api":"csp_LiteApple",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
         {
             "key":"csp_Auete",
             "name": "Auete(爬虫)",
@@ -74,17 +92,8 @@
             "filterable": 1
         },
         {
-            "key": "小熊",
-            "name": "小熊TV",
-            "type": 3,
-            "api": "csp_Xxys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Kuaikan",
-            "name": "快看",
+            "name": "快看(爬虫)",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -92,28 +101,19 @@
             "filterable": 1
         },
         {
-            "key": "神马影院",
-            "name": "神马影院",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key":"360",
+            "name": "360(爬虫)",
+            "type":3,
+            "api":"csp_SP360",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"If101",
             "name": "If101(需翻墙)",
             "type":3,
             "api":"csp_If101",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"360",
-            "name": "360(爬虫)",
-            "type":3,
-            "api":"csp_SP360",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
@@ -709,6 +709,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar;md5;b82bb46f98c468c3ba8b9257efe35abe"
+       "spider": "https://gitea.com/dxa/1/raw/branch/main/ts.jar"
     
 }
