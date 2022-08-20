@@ -8,8 +8,7 @@
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
+            "searchable": 1
         },
         {
             "key":"KanSJ_spider",
@@ -48,18 +47,27 @@
             "searchable":1
         },
         {
-            "key":"Ekan",
-            "name": "Ekan(爬虫)",
-            "api":"csp_Ekan",
+            "key":"EEEDY",
+            "name": "EEEDY(爬虫)",
+            "api":"csp_EEEDY",
             "type":3,
             "filterable":1,
             "quickSearch":1,
             "searchable":1
         },
         {
-            "key":"EEEDY",
-            "name": "EEEDY(爬虫)",
-            "api":"csp_EEEDY",
+            "key":"美剧星球",
+            "name": "美剧星球(爬虫)",
+            "api":"csp_Mjxq",
+            "type":3,
+            "filterable":1,
+            "quickSearch":1,
+            "searchable":1
+        },
+        {
+            "key":"追剧喵",
+            "name": "追剧喵(爬虫)",
+            "api":"csp_ZJMiao",
             "type":3,
             "filterable":1,
             "quickSearch":1,
@@ -199,7 +207,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "1f373a68733e4dafa5fa28dca9826b35"
+            "ext": "dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
             "key": "zhaozy",
@@ -209,7 +217,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "28801b1dbaf4418fb7bc221a575703dd"
+            "ext": "dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
             "key":"AliPS",
@@ -219,7 +227,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext": "28801b1dbaf4418fb7bc221a575703dd"
+            "ext": "dcbc975ad0684eb5a498ecd1836272e6"
         },
         {
             "key": "csp_xpath_wanmeikk",
