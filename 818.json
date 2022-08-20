@@ -237,7 +237,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/wmkkp.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/wmkkp.json"
         },
         {
             "key":"csp_xpath_bttoo",
@@ -247,7 +247,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/bt.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/bt.json"
         },
         {
             "key": "csp_biubiu_蓝光影院",
@@ -257,7 +257,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lgyy.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/lgyy.json"
         },
         {
             "key":"csp_biubiu_剧白白",
@@ -267,7 +267,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/jbb.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/jbb.json"
         },
         {
             "key": "csp_XBiubiubiubiu_lezhu",
@@ -277,7 +277,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lzys.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/lzys.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -287,7 +287,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/ysgc.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/ysgc.json"
         },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
@@ -297,7 +297,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/kdyy.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/kdyy.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -307,7 +307,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/555dy.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/555dy.json"
         },
         {
             "key":"csp_biubiu_瓜皮TV",
@@ -317,7 +317,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/gptv.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/gptv.json"
         },
         {
             "key":"csp_biubiu_爱港剧",
@@ -327,7 +327,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/agj.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/agj.json"
         },    
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -337,7 +337,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/zbk.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/zbk.json"
         },   
         {
             "key": "csp_biubiu_厂长资源",
@@ -347,7 +347,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/czzy.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/czzy.json"
         },
         {
             "key": "csp_biubiu_在线之家",
@@ -357,7 +357,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/zxzj.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/zxzj.json"
         },
         {
             "key": "csp_XBiubiubiubiu_cokemv",
@@ -367,7 +367,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/6/coke.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/coke.json"
         },
         {
             "key":"csp_biubiu_LIBVIO",
@@ -377,7 +377,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/libv.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -387,7 +387,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lztv.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/lztv.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -397,7 +397,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/zxzjp.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/zxzjp.json"
         },
         {
             "key":"csp_xpath_cokemv",
@@ -407,7 +407,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/cokep.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/cokep.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -417,7 +417,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/libvp.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/libvp.json"
         },
         {
             "key": "剧白白",
@@ -427,7 +427,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/jbbp.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/jbbp.json"
         },   
         {
             "key":"csp_xpath_dm84",
@@ -437,7 +437,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
+            "ext":"https://gitee.com/rayb/a1/raw/master/6/dm84.json"
         },    
         {
             "key": "csp_xpath_网络搜集库qiumi",
@@ -447,7 +447,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/qm.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/qm.json"
         },
         {
             "key": "csp_xpath_网络搜集库huaya",
@@ -457,7 +457,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/huya.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/huya.json"
         },
         {
             "key": "Bili",
@@ -467,7 +467,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/6/bili.json"
+            "ext": "https://gitee.com/rayb/a1/raw/master/6/bili.json"
         }, 
         {
             "key":"push_agent",
@@ -483,7 +483,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
+        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vcmF5Yi9hMS9yYXcvbWFzdGVyLzYvdHZsaXZlLnR4dA=="
     ]}]}],
      "parses": [
     {
@@ -896,6 +896,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/818.jar;md5;381a02b64a5bd9853369369c335b8018"
+       "spider":"https://gitee.com/rayb/a1/raw/master/jar/818.jar;md5;381a02b64a5bd9853369369c335b8018"
     
 }
