@@ -56,15 +56,6 @@
             "filterable": 1
         },
         {
-            "key": "Aidi",
-            "name": "Aidi(爬虫)",
-            "api": "csp_Aidi",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
             "key": "Anime1",
             "name": "Anime1(爬虫)",
             "type": 3,
@@ -77,132 +68,6 @@
             "key":"Auete",
             "name": "Auete(爬虫)",
             "api":"csp_Auete",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Buka",
-            "name": "Buka(爬虫)",
-            "api":"csp_Buka",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Juhi",
-            "name": "Juhi(爬虫)",
-            "api":"csp_Juhi",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Jumi",
-            "name": "Jumi(爬虫)",
-            "api":"csp_Jumi",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"N0ys",
-            "name": "N0ys(爬虫)",
-            "api":"csp_N0ys",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Nekk",
-            "name": "Nekk(爬虫)",
-            "api":"csp_Nekk",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Tangrenjie",
-            "name": "Tangrenjie(爬虫)",
-            "api":"csp_Tangrenjie",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Xifanys",
-            "name": "Xifanys(爬虫)",
-            "api":"csp_Xifanys",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Ysdq",
-            "name": "Ysdq(爬虫)",
-            "api":"csp_Ysdq",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Ysgc",
-            "name": "Ysgc(爬虫)",
-            "api":"csp_Ysgc",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"EPang",
-            "name": "EPang(爬虫)",
-            "api":"csp_EPang",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Enlienli",
-            "name": "Enlienli(爬虫)",
-            "api":"csp_Enlienli",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Nfx",
-            "name": "Nfx(爬虫)",
-            "api":"csp_Nfx",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"XPbd",
-            "name": "XPbd(爬虫)",
-            "api":"csp_XPbd",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1
-        },
-        {
-            "key":"Bili",
-            "name": "Bili(爬虫)",
-            "api":"csp_Bili",
             "type":3,
             "filterable":1,
             "quickSearch":1,
@@ -231,15 +96,6 @@
             "name": "555(爬虫)",
             "type": 3,
             "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "剧荒TV",
-            "name": "剧荒TV(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -988,5 +844,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/6.jar;md5;c5c337bb2793598e9aa5953898fbb087"
+       "spider":"https://dxawi.github.io/1/jar/6.jar;md5;42b92ff1c8a7fe2a318ea2dd459dc67b"
 }
