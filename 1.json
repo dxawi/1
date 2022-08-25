@@ -56,15 +56,6 @@
             "filterable": 1
         },
         {
-            "key": "剧荒",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key":"日漫",
             "name": "日漫(爬虫)",
             "type":3,
