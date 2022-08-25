@@ -56,13 +56,13 @@
             "filterable": 1
         },
         {
-            "key":"剧荒",
+            "key": "剧荒",
             "name": "剧荒(爬虫)",
-            "type":3,
-            "api":"csp_Juhuang",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "type": 3,
+            "api": "csp_Juhuang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key":"日漫",
@@ -796,6 +796,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;a9094006d2eea63626d4b5cbb601425a"
+       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;d5a350eee9b6a8259d6e5878c61bcb89"
     
 }
