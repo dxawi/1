@@ -2,13 +2,13 @@
 {
     "sites": [
         {
-            "key": "csp_77",
-            "name": "七七(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "key":"IKan",
+            "name": "IKan(爬虫)",
+            "type":3,
+            "api":"csp_IKan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "csp_Cokemv",
@@ -24,15 +24,6 @@
             "name": "Libvio(爬虫)",
             "type":3,
             "api":"csp_Lib",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"IKan",
-            "name": "IKan(爬虫)",
-            "type":3,
-            "api":"csp_IKan",
             "searchable":1,
             "quickSearch":1,
             "filterable":1
