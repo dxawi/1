@@ -131,6 +131,46 @@
             "ext": "3a49cf29cf20410997247c6eb4509be9"
         },
         {
+            "key": "csp_XBiubiubiubiu_lezhu",
+            "name": "乐猪(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/lzys.json"
+        },
+        {
+            "key": "csp_xpath_wanmeikk",
+            "name": "完美看看(XP)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/wmkkp.json"
+        },
+        {
+            "key":"csp_xpath_bttoo",
+            "name": "两个变态(XP)",
+            "type":3,
+            "api":"csp_XPath",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://dxawi.github.io/6/bt.json"
+        },
+        {
+            "key": "csp_XBiubiubiubiu_口袋影院",
+            "name": "口袋(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://dxawi.github.io/6/kdyy.json"
+        },
+        {
             "key": "csp_biubiu_蓝光影院",
             "name": "蓝光(XB)",
             "type": 3,
@@ -191,16 +231,6 @@
             "ext":"https://dxawi.github.io/6/zbk.json"
         },
         {
-            "key": "csp_XBiubiubiubiu_口袋影院",
-            "name": "口袋(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/kdyy.json"
-        },
-        {
             "key": "csp_biubiu_555电影",
             "name": "555(XB)",
             "type": 3,
@@ -209,36 +239,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://dxawi.github.io/6/555dy.json"
-        },
-        {
-            "key": "csp_XBiubiubiubiu_lezhu",
-            "name": "乐猪(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/lzys.json"
-        },
-        {
-            "key": "csp_xpath_wanmeikk",
-            "name": "完美看看(XP)",
-            "type": 3,
-            "api": "csp_XPathMac",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://dxawi.github.io/6/wmkkp.json"
-        },
-        {
-            "key":"csp_xpath_bttoo",
-            "name": "两个变态(XP)",
-            "type":3,
-            "api":"csp_XPath",
-            "searchable":0,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/6/bt.json"
         },
         {
             "key": "csp_biubiu_厂长资源",
@@ -360,16 +360,6 @@
             "filterable": 1,
             "ext": "https://dxawi.github.io/6/huya.json"
         },
-        {
-            "key": "Bili",
-            "name": "B站",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/6/bili.json"
-        }, 
         {
             "key":"push_agent",
             "name": "推送",
