@@ -2,13 +2,13 @@
 {
     "sites": [
         {
-            "key":"IKan",
-            "name": "IKan(爬虫)",
-            "type":3,
-            "api":"csp_IKan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
+            "key": "神马影院",
+            "name": "神马(爬虫)",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Cokemv",
@@ -27,15 +27,6 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "神马影院",
-            "name": "神马(爬虫)",
-            "type": 3,
-            "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "zxzj",
@@ -99,6 +90,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key":"IKan",
+            "name": "IKan(爬虫)",
+            "type":3,
+            "api":"csp_IKan",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key":"小苹果",
@@ -835,5 +835,5 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/6.jar;md5;7543804f5f4cc27be6a1e2a1580a984c"
+       "spider":"https://dxawi.github.io/1/jar/6.jar;md5;136c6cf088c46123e2ecd7afb1c9ba34"
 }
