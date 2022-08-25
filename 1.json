@@ -29,15 +29,6 @@
             "filterable":1
         },
         {
-            "key":"Xiaoh",
-            "name": "Xiaoh(爬虫)",
-            "type":3,
-            "api":"csp_Xiaoh",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
             "key":"厂长影视",
             "name": "厂长(爬虫)",
             "type":3,
@@ -90,6 +81,24 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key":"日漫",
+            "name": "日漫(爬虫)",
+            "type":3,
+            "api":"csp_Anime1",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"Xiaoh",
+            "name": "Xiaoh(爬虫)",
+            "type":3,
+            "api":"csp_Xiaoh",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
         },
         {
             "key": "360",
@@ -797,6 +806,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;4017fdcaec55b82308dfc64b801e7790"
+       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;8d7baf86d0b3d25cb648bc605c1f3191"
     
 }
