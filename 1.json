@@ -56,6 +56,15 @@
             "filterable": 1
         },
         {
+            "key":"剧荒",
+            "name": "剧荒(爬虫)",
+            "type":3,
+            "api":"csp_Juhuang",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
             "key":"日漫",
             "name": "日漫(爬虫)",
             "type":3,
@@ -158,7 +167,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/bt.json"
+            "ext": "https://dxawi.github.io/6/bt.json"
         },
         {
             "key": "csp_XBiubiubiubiu_口袋影院",
@@ -188,7 +197,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/jbb.json"
+            "ext": "https://dxawi.github.io/6/jbb.json"
         },
         {
             "key": "csp_XBiubiubiubiu_ysgc",
@@ -208,7 +217,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/gptv.json"
+            "ext": "https://dxawi.github.io/6/gptv.json"
         },
         {
             "key":"csp_biubiu_爱港剧",
@@ -218,7 +227,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/agj.json"
+            "ext": "https://dxawi.github.io/6/agj.json"
         },    
         {
             "key":"csp_biubiu_真不卡cerrd",
@@ -228,7 +237,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/zbk.json"
+            "ext": "https://dxawi.github.io/6/zbk.json"
         },
         {
             "key": "csp_biubiu_555电影",
@@ -278,7 +287,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/libv.json"
+            "ext": "https://dxawi.github.io/6/libv.json"
         },
         {
             "key":"csp_xpath_lezhutv",
@@ -288,7 +297,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/lztv.json"
+            "ext": "https://dxawi.github.io/6/lztv.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -298,7 +307,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/zxzjp.json"
+            "ext": "https://dxawi.github.io/6/zxzjp.json"
         },
         {
             "key":"csp_xpath_cokemv",
@@ -308,7 +317,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/cokep.json"
+            "ext": "https://dxawi.github.io/6/cokep.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -318,7 +327,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/6/libvp.json"
+            "ext": "https://dxawi.github.io/6/libvp.json"
         },
         {
             "key": "剧白白",
@@ -338,7 +347,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/6/dm84.json"
+            "ext": "https://dxawi.github.io/6/dm84.json"
         },    
         {
             "key": "csp_xpath_网络搜集库qiumi",
@@ -787,6 +796,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;8d7baf86d0b3d25cb648bc605c1f3191"
+       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;a9094006d2eea63626d4b5cbb601425a"
     
 }
