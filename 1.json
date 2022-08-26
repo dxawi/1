@@ -83,15 +83,6 @@
             "filterable": 1
         },
         {
-            "key": "爱看",
-            "name": "爱看(爬虫)",
-            "type": 3,
-            "api": "csp_IKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "555",
             "name": "555(爬虫)",
             "type": 3,
