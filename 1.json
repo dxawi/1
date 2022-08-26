@@ -73,6 +73,16 @@
             "quickSearch":1,
             "filterable":1
         },
+	{
+
+            "key": "蓝光",
+            "name": "蓝光(爬虫)",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "Kuaikan",
             "name": "快看(爬虫)",
@@ -125,6 +135,16 @@
             "name": "盘搜(仅搜索)",
             "type":3,
             "api":"csp_AliPS",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext": "3a49cf29cf20410997247c6eb4509be9"
+        },
+        {
+            "key":"一搜",
+            "name": "一搜(仅搜索)",
+            "type":3,
+            "api":"csp_Yisou",
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
@@ -787,6 +807,6 @@
         "cms.qdwght.com"
     ],
        "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;1beae7649bf8d39769b5ad7346effadb"
+       "spider":"https://dxawi.github.io/1/jar/ts.jar;md5;31c178c774b241e8e1fa93b0d223e61c"
     
 }
