@@ -444,15 +444,12 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
 体育,#genre#
-精品体育,http://111.12.110.63:6610/PLTV/77777777/224/3221225724/index.m3u8?
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 少儿动画,#genre#
 金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/index.m3u8?A=&IASHttpSessionId=OTT
