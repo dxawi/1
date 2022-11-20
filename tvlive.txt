@@ -11,7 +11,6 @@ CCTV3,http://39.135.6.18:6610/000000001001/6000000001000022313/1.m3u8?stbId=3&li
 CCTV3,http://111.12.110.63:6610/PLTV/77777777/224/3221225713/index.m3u8?
 CCTV4,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225621/index.m3u8
 CCTV4,http://39.135.6.18:6610/000000001000/5000000005000030093/1.m3u8?Contentid=5000000005000030093&livemode=1&stbId=3&channel-id=bestzb
-CCTV4,http://111.12.110.63:6610/PLTV/77777777/224/3221225761/index.m3u8?
 CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV5,http://39.135.6.18:6610/000000001001/6000000001000016431/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000016431
@@ -448,9 +447,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+4KCCTV16,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT451920221120173908002837&channel-id=bestzb&Contentid=5000000008000023254
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 少儿动画,#genre#
 金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/index.m3u8?A=&IASHttpSessionId=OTT
 金鹰卡通,http://111.12.110.63:6610/PLTV/77777777/224/3221225702/index.m3u8?
