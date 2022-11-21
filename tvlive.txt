@@ -1,3 +1,21 @@
+体育,#genre#
+抖音世界杯,https://pull-spe-l3.douyincdn.com/fantasy/stream-112002057447932598_spuhd.flv?_neptune_token=MIGoBAy6W2fsshiAp0_JQ5EEgYXLK4Eu6EFuIozhlrqnXGROTrxUH3GUg-wbEWKde57ZppgyzkrImnYSXaJ7FMvD7vehX9WkYCABTVIg3YDL9QFZIVVWZuovXBWplHH1j46_KkhqGEKx-_i4I_K6vuTTiMZpdTvatyGEOLUk5uHODBHauF0UQDiVRLbfxyJeVcxsh1GHBNmABBDiJfflXU19evGtfXyUlmKa&auth_key=1669117294-0-0-039754ce2178565d183a7d2bd43dd5de&abr_pts=-1800
+CCTV16(4K),http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT451920221120173908002837&channel-id=bestzb&Contentid=5000000008000023254
+CCTV16(4K),http://live.cooltv.top/tv/aishang.php?id=cctv164k
+
+咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+咪咕体育,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+
 央视,#genre#
 CCTV1,http://39.135.6.18:6610/000000001001/6000000001000029752/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000029752
 CCTV1,http://117.169.120.242:8080/wh7f454c46tw1490432856_1716888660/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1663085841&from=79102&ocs=2_117.169.120.136_8080&hms_devid=1403&online=1663085841&vqe=3
@@ -401,13 +419,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
-体育,#genre#
-咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-CCTV16(4K),http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT451920221120173908002837&channel-id=bestzb&Contentid=5000000008000023254
-广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 少儿动画,#genre#
 金鹰卡通,http://124.232.231.246:6610/000000001001/201600020009/index.m3u8?A=&IASHttpSessionId=OTT
 金鹰卡通,http://111.12.110.63:6610/PLTV/77777777/224/3221225702/index.m3u8?
