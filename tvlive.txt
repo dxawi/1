@@ -29,6 +29,7 @@ CCTV9,http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
 CCTV10,http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_6000.m3u8
 CCTV11,http://hls.yun.gehua.net.cn:8088/live/CCTV11HD_2000.m3u8
 CCTV12,http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://hls.yun.gehua.net.cn:8088/live/CCTV13HD_2000.m3u8
 CCTV14,http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
 CCTV15,http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
