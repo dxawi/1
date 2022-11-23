@@ -1,8 +1,6 @@
 体育,#genre#
 CCTV16(4K),http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT451920221120173908002837&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://live.cooltv.top/tv/aishang.php?id=cctv164k
-CCTV4K,https://epg.pm/stream/baa02a719490d7e9f4ed92dcfa857d639ceaea85be90e110c0babf3e1867bcc4.ctv
-CCTV4K,https://epg.pm/stream/db79470fc1c446caec8137d7b71c06d2f053109e852afc2391fc28702481433a.m3u8
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕体育,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
