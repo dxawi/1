@@ -1,4 +1,5 @@
 体育,#genre#
+抖音世界杯,http://159.75.85.63:5678/zb.php?id=douyin
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
