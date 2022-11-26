@@ -24,13 +24,14 @@ CCTV7,http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_6000.m3u8
 CCTV8,http://hls.yun.gehua.net.cn:8088/live/CCTV8HD_6000.m3u8
 CCTV9,http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
 CCTV10,http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_6000.m3u8
+CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
 CCTV11,http://hls.yun.gehua.net.cn:8088/live/CCTV11HD_2000.m3u8
 CCTV12,http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
+CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV13,http://hls.yun.gehua.net.cn:8088/live/CCTV13HD_2000.m3u8
 CCTV14,http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
 CCTV15,http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 CHC高清电影,http://hls.yun.gehua.net.cn:8088/live/CHCHD_6000.m3u8
@@ -47,9 +48,9 @@ CCTV7,http://218.29.55.44:808/hls/7/index.m3u8
 CCTV8,http://218.29.55.44:808/hls/8/index.m3u8
 CCTV9,http://218.29.55.44:808/hls/9/index.m3u8
 CCTV10,http://218.29.55.44:808/hls/10/index.m3u8
-CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
+
 CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
-CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
+
 CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
 CCTV5+,http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_1200.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
