@@ -1,6 +1,5 @@
 体育,#genre#
 抖音世界杯,http://159.75.85.63:5678/zb.php?id=douyin
-CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕体育,http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
@@ -73,7 +72,6 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 东南卫视,http://218.29.55.44:808/hls/49/index.m3u8
 云南卫视,https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 陕西卫视,http://218.29.55.44:808/hls/35/index.m3u8
 宁夏卫视,http://218.29.55.44:808/hls/46/index.m3u8
 广西卫视,http://218.29.55.44:808/hls/47/index.m3u8
