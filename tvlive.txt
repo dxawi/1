@@ -46,7 +46,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV17,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226208/index.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 
-精影综艺,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8?
+精彩综艺,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8?
 地方,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -103,14 +103,6 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 广东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-人文纪实,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-体育休闲,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-1高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8?
-2高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8?
-
 
 陕西卫视,http://218.29.55.44:808/hls/35/index.m3u8
 宁夏卫视,http://218.29.55.44:808/hls/46/index.m3u8
@@ -120,6 +112,14 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 山西卫视,http://218.29.55.44:808/hls/51/index.m3u8
 青海卫视,http://218.29.55.44:808/hls/52/index.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+
+哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+纪实人文,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+体育休闲,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+1高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8?
+2高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8?
 金鹰卡通,http://218.29.55.44:808/hls/53/index.m3u8
 嘉佳卡通,http://218.29.55.44:808/hls/54/index.m3u8
 
