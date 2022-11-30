@@ -1,16 +1,23 @@
 体育,#genre#
 抖音世界杯,http://159.75.85.63:5678/zb.php?id=douyin
+CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-魅力足球,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 咪咕1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 咪咕4,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 咪咕8,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+ELTA体育1台,
+https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+ELTA体育2台,
+https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+ELTA体育3台,
+https://elta.irtblztjwzxz000041.xyz/elta/download/33/index.m3u8
 
 央视,#genre#
-
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV3,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
@@ -35,7 +42,7 @@ CCTV4美洲,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv4a
 CCTV4欧洲,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv4o
 
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
+
 
 CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV2,http://218.29.55.44:808/hls/2/index.m3u8
