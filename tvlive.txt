@@ -86,7 +86,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 江苏卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
 广西卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
 四川卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
-上海卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
+东方卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
 湖南卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 浙江卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
 东方卫视,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
