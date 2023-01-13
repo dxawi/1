@@ -73,7 +73,6 @@ CCTV17,http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://baidu.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f//index.m3u8
