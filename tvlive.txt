@@ -43,6 +43,7 @@ CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//i
 
 
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+CCTV1,http://39.184.224.99:9080/newlive/live/hls/1/live.m3u8
 CCTV2,http://39.184.224.99:9080/newlive/live/hls/2/live.m3u8
 CCTV3,http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8
 CCTV4,http://39.184.224.99:9080/newlive/live/hls/4/live.m3u8
@@ -109,6 +110,14 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 云南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 贵州卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 海南卫视,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+
+
+西藏卫视高清,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
+西藏影视文化高清,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+西藏藏语高清,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
+
+
+
 欢笑剧场,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
 劲爆体育,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 快乐垂钓,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
