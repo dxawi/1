@@ -10,44 +10,22 @@ CCTV-7,http://221.213.43.82:8888/newlive/live/hls/9/live.m3u8
 CCTV-8,http://221.213.43.82:8888/newlive/live/hls/10/live.m3u8
 CCTV-9,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8
 CCTV-10,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
-CCTV-11,http://59.36.182.134:9999/newlive/live/hls/107/live.m3u8
-CCTV-12,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
+
+CCTV-11,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
+CCTV-12,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
 
 CCTV-13,http://222.71.90.218:8888/newlive/live/hls/14/live.m3u8
 CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV-14,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
-
+CCTV-14,http://221.213.43.82:8888/newlive/live/hls/15/live.m3u8
 CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV-16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
-CCTV-17,http://59.36.182.134:9999/newlive/live/hls/113/live.m3u8
+
 CCTV-17,http://121.51.249.28/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 
 
-
-
-CCTV-1,http://59.36.182.134:9999/newlive/live/hls/97/live.m3u8
-CCTV-2,http://59.36.182.134:9999/newlive/live/hls/97/live.m3u8
-CCTV-3,http://59.36.182.134:9999/newlive/live/hls/98/live.m3u8
-CCTV-4,http://59.36.182.134:9999/newlive/live/hls/99/live.m3u8
-CCTV-5,http://59.36.182.134:9999/newlive/live/hls/100/live.m3u8
-CCTV-6,http://59.36.182.134:9999/newlive/live/hls/102/live.m3u8
-CCTV-7,http://59.36.182.134:9999/newlive/live/hls/103/live.m3u8
-CCTV-8,http://59.36.182.134:9999/newlive/live/hls/104/live.m3u8
-CCTV-9,http://59.36.182.134:9999/newlive/live/hls/105/live.m3u8
-CCTV-10,http://59.36.182.134:9999/newlive/live/hls/106/live.m3u8
-
-CCTV-12,http://59.36.182.134:9999/newlive/live/hls/108/live.m3u8
-CCTV-13,http://59.36.182.134:9999/newlive/live/hls/109/live.m3u8
-CCTV-14,http://59.36.182.134:9999/newlive/live/hls/110/live.m3u8
-CCTV-15,http://59.36.182.134:9999/newlive/live/hls/111/live.m3u8
-CCTV-5+,http://59.36.182.134:9999/newlive/live/hls/114/live.m3u8
-
 CGTN,http://221.213.43.82:8888/newlive/live/hls/18/live.m3u8
-
-
-
 
 CCTV-1,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
 CCTV-2,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
@@ -60,8 +38,8 @@ CCTV-7,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f
 CCTV-8,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
 CCTV-9,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
 CCTV-10,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV-11,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV-12,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
+
+
 CCTV-13,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvnewsHD/__op/default/__f//index.m3u8
 CCTV-14,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD /__op/default/__f//index.m3u8
 CCTV-15,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
