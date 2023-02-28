@@ -19,24 +19,12 @@ CCTV-16,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/_
 CCTV-17,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
 
 
-CCTV-1,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
-CCTV-2,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
-CCTV-3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
-CCTV-4,http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8
-CCTV-5,http://221.213.43.82:8888/newlive/live/hls/6/live.m3u8
-CCTV-5+,http://221.213.43.82:8888/newlive/live/hls/7/live.m3u8
-CCTV-6,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
-CCTV-8,http://221.213.43.82:8888/newlive/live/hls/10/live.m3u8
-CCTV-9,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8
-CCTV-10,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
 CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV-14,http://221.213.43.82:8888/newlive/live/hls/16/live.m3u8
 CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV-16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV-17,http://121.51.249.28/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
-CGTN,http://221.213.43.82:8888/newlive/live/hls/18/live.m3u8
 
 
 CETV-1,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cetv-1SD/__op/default/__f//index.m3u8
@@ -97,35 +85,6 @@ SiTV欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__o
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-北京卫视,http://221.213.43.82:8888/newlive/live/hls/19/live.m3u8
-东方卫视,http://221.213.43.82:8888/newlive/live/hls/20/live.m3u8
-广东卫视,http://221.213.43.82:8888/newlive/live/hls/21/live.m3u8
-江苏卫视,http://221.213.43.82:8888/newlive/live/hls/22/live.m3u8
-湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
-浙江卫视,http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8
-安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
-广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
-云南卫视,http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
-深圳卫视,http://221.213.43.82:8888/newlive/live/hls/28/live.m3u8
-贵州卫视,http://221.213.43.82:8888/newlive/live/hls/29/live.m3u8
-山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
-重庆卫视,http://221.213.43.82:8888/newlive/live/hls/31/live.m3u8
-四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
-河南卫视,http://221.213.43.82:8888/newlive/live/hls/33/live.m3u8
-湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
-吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
-天津卫视 http://221.213.43.82:8888/newlive/live/hls/42/live.m3u8
-辽宁卫视,http://221.213.43.82:8888/newlive/live/hls/43/live.m3u8
-黑龙江卫视,http://221.213.43.82:8888/newlive/live/hls/44/live.m3u8
-河北卫视,http://221.213.43.82:8888/newlive/live/hls/45/live.m3u8
-江西卫视,http://221.213.43.82:8888/newlive/live/hls/46/live.m3u8
-东南卫视,http://221.213.43.82:8888/newlive/live/hls/47/live.m3u8
-海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
-西藏卫视,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
-西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
-西藏藏语,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
-
-哈哈炫动,http://222.71.90.218:8888/newlive/live/hls/52/live.m3u8
 
 东南卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f//index.m3u8
 东方卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f//index.m3u8
@@ -151,6 +110,12 @@ SiTV欢笑剧场 4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__o
 重庆卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f//index.m3u8
 青海卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f//index.m3u8
 黑龙江卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f//index.m3u8
+
+西藏卫视,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
+西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+西藏藏语,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
+
+
 
 宁夏卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f//index.m3u8
 新疆卫视,http://bytedance.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f//index.m3u8
